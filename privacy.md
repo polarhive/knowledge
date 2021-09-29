@@ -10,3 +10,6 @@ Privacy is a basic human right.
 - [The NSA and CIA Use Ad Blockers Because Online Advertising Is So Dangerous](https://www.vice.com/en/article/93ypke/the-nsa-and-cia-use-ad-blockers-because-online-advertising-is-so-dangerous)
 - [Tor Browser](https://www.torproject.org/download/) - Use Tor Browser for actual privacy.
 - [NextDNS](https://nextdns.io/) - Block ads and websites at the router/DNS level across [all your devices](https://polarhive.ml/videos/notes/nextdns-dns-firewall-for-privacy)
+- [Firefox Tweaks](https://wiki.archlinux.org/title/Firefox/Privacy)
+- [Firefox Enterprise Policies](https://support.mozilla.org/en-US/kb/managing-policies-linux-desktops)
+- [Firefox Enterprise Policy Templates](https://github.com/mozilla/policy-templates)
