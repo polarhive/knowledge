@@ -14,3 +14,6 @@ Licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/
 Inspired by 
 * [Nikita Voloboev](https://wiki.nikitavoloboev.xyz/)
 * [Maggie Appleton](https://maggieappleton.com/garden)
+
+---
+This repo is hosted on [Codeberg](https://polarhive.ml/knowledge) & also on GitHub as a READ-ONLY mirror.
