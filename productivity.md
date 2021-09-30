@@ -10,3 +10,4 @@ Productivity
 - turn off notifications
 - separate your entertainment zone from your study/work zone
 - use [Anki Cards](https://f-droid.org/packages/com.ichi2.anki/) to revise
+  
