@@ -14,3 +14,5 @@ Privacy is a basic human right.
 - [Hardening Firefox - September 2021 Update](https://brainfucksec.github.io/hardening-firefox-sep-2021-update)
 - [Firefox Enterprise Policies](https://support.mozilla.org/en-US/kb/managing-policies-linux-desktops)
 - [Firefox Enterprise Policy Templates](https://github.com/mozilla/policy-templates)
+- [What’s the best ad blocker for you? - Firefox Add-on Reviews](https://addons.mozilla.org/blog/whats-the-best-ad-blocker-for-you/)
+
