@@ -8,3 +8,4 @@
 - [chemistNATE](https://redirect.invidious.io/chemistNATE)
 - [NCERT Grade 11 Chemistry](https://ncert.nic.in/textbook.php?kech1=0-7) - If you're from India.
 - [Chemistry Library](https://www.khanacademy.org/science/chemistry/) - Khan Academy
+- [The History of Atomic Chemistry](https://redirect.invidious.io/watch?v=thnDxFdkzZs) - Crash Course Chemistry
