@@ -4,4 +4,5 @@ GNU + Linux + many other components make up a good, [libre OS](https://polarhive
 
 ## links
 
-- [Fedora](https://fedoraproject.org/) - Very well polished, with a great UX for new users.
+- [Fedora GNU/Linux](https://fedoraproject.org/) - Very well polished, with a great UX for new users.
+- [Arch GNU/Linux](https://archlinux.org/) - Super minimal, upto-date distro. An easy [cli install-wizard](https://github.com/archlinux/archinstall/)
