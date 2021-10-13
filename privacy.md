@@ -16,3 +16,4 @@ Privacy is a basic human right.
 - [Firefox Enterprise Policy Templates](https://github.com/mozilla/policy-templates)
 - [What’s the best ad blocker for you? - Firefox Add-on Reviews](https://addons.mozilla.org/blog/whats-the-best-ad-blocker-for-you/)
 - Use Proxy-services (Invidious, Nitter, Bibliogram, Libreddit)
+- Use a libre OS like [GNU/Linux](https://codeberg.org/polarhive/knowledge/src/branch/master/linux.md) for privacy.
