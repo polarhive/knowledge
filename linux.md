@@ -2,7 +2,7 @@
 
 ## "GNU" in the GNU/Linux name doesn't nescessarily mean GNU software!
 
-GNU + Linux + X11/Wayland + many other components make up a good, [libre OS](https://polarhive.ml/blog/free-libre-software/) that puts the user in [control](https://polarhive.ml/blog/how-i-do-my-computing/). Linux is a cool name but doesn't signify 'freedom' or the original behind the hacker ecosystem.  
+GNU + Linux + X11/Wayland + many other components make up a good, [libre OS](https://polarhive.ml/blog/free-libre-software/) that puts the user in [control](https://polarhive.ml/blog/how-i-do-my-computing/). Linux is a cool name but doesn't signify 'freedom' or the original goal behind the hacker ecosystem.  
 
 ### What each word implies
 
