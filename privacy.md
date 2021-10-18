@@ -17,3 +17,4 @@ Privacy is a basic human right.
 - [What’s the best ad blocker for you? - Firefox Add-on Reviews](https://addons.mozilla.org/blog/whats-the-best-ad-blocker-for-you/)
 - Use Proxy-services (Invidious, Nitter, Bibliogram, Libreddit)
 - Use a libre OS like [GNU/Linux](https://codeberg.org/polarhive/knowledge/src/branch/master/linux.md) for privacy.
+- [Brave](https://polarhive.ml/videos/notes/hardening-brave-browser) - Do not use the defaults. Brave's sole purpose is to get users to sign up for Brave Rewards and BAT.
