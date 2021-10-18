@@ -8,6 +8,7 @@ Privacy is a basic human right.
 - [Digital Minimalism on my Phone (FOSS)](https://polarhive.ml/blog/digital-minimalism-on-my-phone-foss) - degoogle your phone
 - [uBlock Origin](https://ublockorigin.com) - A content/ad-blocker that everyone should install, these days 🤔
 - [The NSA and CIA Use Ad Blockers Because Online Advertising Is So Dangerous](https://www.vice.com/en/article/93ypke/the-nsa-and-cia-use-ad-blockers-because-online-advertising-is-so-dangerous)
+- [The Privacy Club: Richard Stallman Interview](https://redirect.invidious.io/watch?v=L_hDDsidy-o) - The Privacy Club: Richard Stallman Interview
 - [Tor Browser](https://www.torproject.org/download/) - Use Tor Browser for actual privacy.
 - [NextDNS](https://nextdns.io/) - Block ads and websites at the router/DNS level across [all your devices](https://polarhive.ml/videos/notes/nextdns-dns-firewall-for-privacy)
 - [Firefox Tweaks](https://wiki.archlinux.org/title/Firefox/Privacy)
@@ -18,3 +19,4 @@ Privacy is a basic human right.
 - Use Proxy-services (Invidious, Nitter, Bibliogram, Libreddit)
 - Use a libre OS like [GNU/Linux](https://codeberg.org/polarhive/knowledge/src/branch/master/linux.md) for privacy.
 - [Brave](https://polarhive.ml/videos/notes/hardening-brave-browser) - Do not use the defaults. Brave's sole purpose is to get users to sign up for Brave Rewards and BAT.
+
