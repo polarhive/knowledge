@@ -1,6 +1,6 @@
 # GNU/Linux
 
-## "GNU" in the GNU/Linux name doesn't nescessarily mean GNU software!
+## "GNU" in the GNU/Linux name doesn't necessarily mean GNU software!
 
 GNU + Linux + X11/Wayland + many other components make up a good, [libre OS](https://polarhive.ml/blog/free-libre-software/) that puts the user in [control](https://polarhive.ml/blog/how-i-do-my-computing/). Linux is a cool name but doesn't signify 'freedom' or the original goal behind the hacker ecosystem.  
 
@@ -17,6 +17,6 @@ So what's GNU? - GNU's Not UNIX :P, **GNU's not proprietary software.**
 ## links
 
 - [Fedora GNU/Linux](https://fedoraproject.org/) - Very well polished, with a great UX for new users.
-- [Arch GNU/Linux](https://archlinux.org/) - Super minimal, upto-date distro. An easy [cli install-wizard](https://github.com/archlinux/archinstall/)
+- [Arch GNU/Linux](https://archlinux.org/) - Super minimal, up-to-date distro. An easy [cli install-wizard](https://github.com/archlinux/archinstall/)
 - [Flatpak](https://flatpak.org) - Cross device app packaging format.
 - [ZSH](https://ohmyz.sh/) - A cool shell you got to try!
