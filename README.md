@@ -5,9 +5,9 @@ I hope that they would be useful to you.
 
 ## Example entries 
 
-- [~/minimalism](https://codeberg.org/polarhive/knowledge/src/branch/master/minimalism.md)
+- [~/minimalism](https://codeberg.org/polarhive/knowledge/src/branch/master/lifestyle/minimalism.md)
 - [~/privacy](https://codeberg.org/polarhive/knowledge/src/branch/master/privacy.md)
-- [~/lifestyle](https://codeberg.org/polarhive/knowledge/src/branch/master/lifestyle.md)
+- [~/lifestyle](https://codeberg.org/polarhive/knowledge/src/branch/master/lifestyle/)
 - [~/software](https://codeberg.org/polarhive/knowledge/src/branch/master/software.md)
 
 ---
