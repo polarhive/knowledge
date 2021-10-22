@@ -2,6 +2,8 @@
 
 Lifestyle and interesting personalities
 
+- - [minimalism](./minimalism.md)
+
 ## links
 
 - [Pavel Durov](https://tx.me/s/durov/65)
