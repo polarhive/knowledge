@@ -11,3 +11,5 @@ Beautiful fonts and typefaces
 - [San Francisco](https://developer.apple.com/fonts/)
 - [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
 - [Arimo](https://www.fontsquirrel.com/fonts/arimo) - The one used in the Tor Browser
+- [Fira Code](https://github.com/tonsky/FiraCode) - I like the ligatures
+ 
