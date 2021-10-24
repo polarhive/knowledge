@@ -12,3 +12,4 @@ Productivity
 - use [Anki Cards](https://f-droid.org/packages/com.ichi2.anki/) to revise
 - cold showers (especially when you're sleepy)
 - [SponsorBlock](sponsor.ajay.app/) - Blocks in-video sponsor segments using a crowdsourced API.
+- Get rid of your phone - Use a laptop, do not carry your phone around, at least when you're at home
