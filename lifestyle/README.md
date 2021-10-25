@@ -3,6 +3,7 @@
 Lifestyle and interesting personalities
 
 - - [minimalism](./minimalism.md)
+- - [productivity](./productivity.md)
 
 ## links
 
