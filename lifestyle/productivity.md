@@ -14,3 +14,4 @@ Productivity
 - [SponsorBlock](sponsor.ajay.app/) - Blocks in-video sponsor segments using a crowdsourced API.
 - Get rid of your phone - Use a laptop, do not carry your phone around, at least when you're at home
 - [Asterisk Method](http://www.geometry.org/tex/conc/mathlearn.html)
+- [Use Your Head - Tony Buzan] - A good read
