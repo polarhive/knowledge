@@ -1,4 +1,4 @@
 # science
 
-- - [physics](./physics.md)
-- - [chemistry](./chemistry.md)
+- [physics](./physics.md)
+- [chemistry](./chemistry.md)

@@ -12,4 +12,3 @@ Beautiful fonts and typefaces
 - [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
 - [Arimo](https://www.fontsquirrel.com/fonts/arimo) - The one used in the Tor Browser
 - [Fira Code](https://github.com/tonsky/FiraCode) - I like the ligatures
- 

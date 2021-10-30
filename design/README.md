@@ -2,4 +2,4 @@
 
 A pleasant, user-focused UX
 
-- - [fonts](./fonts.md)
+- [fonts](./fonts.md)
