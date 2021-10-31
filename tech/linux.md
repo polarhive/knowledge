@@ -20,3 +20,4 @@ So what's GNU? - GNU's Not UNIX :P, **GNU's not proprietary software.**
 - [Arch GNU/Linux](https://archlinux.org/) - Super minimal, up-to-date distro. An easy [cli install-wizard](https://github.com/archlinux/archinstall/)
 - [Flatpak](https://flatpak.org) - Cross device app packaging format.
 - [ZSH](https://ohmyz.sh/) - A cool shell you got to try!
+- [Devhints](https://devhints.io/) - TL;DR for developer documentation
