@@ -21,3 +21,4 @@ So what's GNU? - GNU's Not UNIX :P, **GNU's not proprietary software.**
 - [Flatpak](https://flatpak.org) - Cross device app packaging format.
 - [ZSH](https://ohmyz.sh/) - A cool shell you got to try!
 - [Devhints](https://devhints.io/) - TL;DR for developer documentation
+- [ZSH Syntax Highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish like Syntax Highlighting
