@@ -15,3 +15,4 @@ Productivity
 - Get rid of your phone - Use a laptop, do not carry your phone around, at least when you're at home
 - [Asterisk Method](http://www.geometry.org/tex/conc/mathlearn.html)
 - [Use Your Head](https://en.wikipedia.org/wiki/Special:BookSources?isbn=9780563165521) - Tony Buzan
+- [The 5 Minute Rule](https://redirect.invidious.io/watch?v=rRid6GCJtgc)
