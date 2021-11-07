@@ -14,3 +14,4 @@ FOSS & bloat free-software
 - [Brave](https://polarhive.ml/videos/notes/hardening-brave-browser) - Do not use the defaults. Brave's sole purpose is to get users to sign up for Brave Rewards and BAT.
 - [Droid-ify](https://github.com/Iamlooker/Droid-ify/) - A modern F-Droid client
 - [rsync](https://rsync.samba.org/)
+- [Codium](https://vscodium.com/) - VSCode but libre!
