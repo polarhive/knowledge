@@ -15,3 +15,5 @@ FOSS & bloat free-software
 - [Droid-ify](https://github.com/Iamlooker/Droid-ify/) - A modern F-Droid client
 - [rsync](https://rsync.samba.org/)
 - [Codium](https://vscodium.com/) - VSCode but libre!
+- [How to Create and Share Torrents](https://odysee.com/@AlphaNerd:8/how-to-create-and-share-torrents:e)
+
