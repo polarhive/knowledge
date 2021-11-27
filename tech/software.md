@@ -16,4 +16,4 @@ FOSS & bloat free-software
 - [rsync](https://rsync.samba.org/)
 - [Codium](https://vscodium.com/) - VSCode but libre!
 - [How to Create and Share Torrents](https://odysee.com/@AlphaNerd:8/how-to-create-and-share-torrents:e)
-
+- [Teach Yourself CS](https://teachyourselfcs.com/)
