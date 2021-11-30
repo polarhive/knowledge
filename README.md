@@ -4,10 +4,10 @@ Hi I'm [Nathan](https://polarhive.ml/) 👋 This is my knowledge wiki or digital
 
 ## Example entries
 
-- [~/minimalism](https://codeberg.org/polarhive/knowledge/src/branch/master/lifestyle/minimalism.md)
-- [~/privacy](https://codeberg.org/polarhive/knowledge/src/branch/master/tech/privacy.md)
-- [~/lifestyle](https://codeberg.org/polarhive/knowledge/src/branch/master/lifestyle/)
-- [~/software](https://codeberg.org/polarhive/knowledge/src/branch/master/tech/software.md)
+- [~/minimalism](https://codeberg.org/polarhive/knowledge/src/branch/main/lifestyle/minimalism.md)
+- [~/privacy](https://codeberg.org/polarhive/knowledge/src/branch/main/tech/privacy.md)
+- [~/lifestyle](https://codeberg.org/polarhive/knowledge/src/branch/main/lifestyle/)
+- [~/software](https://codeberg.org/polarhive/knowledge/src/branch/main/tech/software.md)
 
 ---
 
