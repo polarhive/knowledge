@@ -16,3 +16,4 @@ Productivity
 - [Asterisk Method](http://www.geometry.org/tex/conc/mathlearn.html)
 - [Use Your Head](https://en.wikipedia.org/wiki/Special:BookSources?isbn=9780563165521) - Tony Buzan
 - [The 5 Minute Rule](https://redirect.invidious.io/watch?v=rRid6GCJtgc)
+- [Quit social media | Dr. Cal Newport](https://redirect.invidious.io/watch?v=3E7hkPZ-HTk)
