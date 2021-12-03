@@ -12,4 +12,3 @@ Music production / listening to music
 - [Ardour 6 Quickstart (recording, editing, mixing and exporting)](https://odysee.com/@unfa:7/ardour-6-quickstart-recording-editing:0)
 - [Farplay](https://farplay.io/)
 - [Jamulus](https://jamulus.io/)
-
