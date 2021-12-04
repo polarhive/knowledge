@@ -6,3 +6,4 @@ A pleasant, user-focused UX
 - [Excalidraw](https://excalidraw.com/)
 - [GIMP 3](https://wiki.gimp.org/wiki/Roadmap#GIMP_3.0)
 - [Emoji to Scale](https://javier.xyz/emoji-to-scale/)
+- [blender](https://blender.org)
