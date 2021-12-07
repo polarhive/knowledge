@@ -12,3 +12,4 @@ There's no need for drag and drop website builders, it blinds you from being cre
 - [Element CSS](https://elementcss.neocities.org/)
 - [new.css](https://newcss.net/) - The CSS theme I use for [my site](https://polarhive.ml)
 - [weblite](https://codeberg.org/Weblite/)
+- [Advanced Search](https://support.google.com/websearch/answer/35890) - Do an Advanced Search on Google
