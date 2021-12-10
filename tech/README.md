@@ -10,3 +10,4 @@ Technology, software & the digital world
 - [torrents](./torrents.md)
 - [videos](./videos.md)
 - [music](./music.md)
+- [How do SSDs Work? | How does your Smartphone store data? |  Insanely Complex Nanoscopic Structures!](https://redirect.invidious.io/watch?v=5Mh3o886qpg)
