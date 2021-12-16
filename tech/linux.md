@@ -24,3 +24,4 @@ So what's GNU? - GNU's Not UNIX :P, **GNU's not proprietary software.**
 - [ZSH Syntax Highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish like Syntax Highlighting
 - [Linux Mint](https://linuxmint.com/) - An easy beginner distro
 - [Sway Rice](https://github.com/sora6kq/sway-dots)
+- [hacking](https://www.technologyreview.com/2007/08/15/224210/that-hack-25-years-later/) - clever people

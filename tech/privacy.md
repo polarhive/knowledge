@@ -8,7 +8,7 @@ Privacy is a basic human right.
 - [Digital Minimalism on my Phone (FOSS)](https://polarhive.ml/blog/digital-minimalism-on-my-phone-foss) - degoogle your phone
 - [uBlock Origin](https://ublockorigin.com) - A content/ad-blocker that everyone should install, these days 🤔
 - [The NSA and CIA Use Ad Blockers Because Online Advertising Is So Dangerous](https://www.vice.com/en/article/93ypke/the-nsa-and-cia-use-ad-blockers-because-online-advertising-is-so-dangerous)
-- [The Privacy Club: Richard Stallman Interview](https://redirect.invidious.io/watch?v=L_hDDsidy-o) - The Privacy Club: Richard Stallman Interview
+- [The Privacy Club: Richard Stallman Interview](https://piped.kavin.rocks/watch?v=L_hDDsidy-o) - The Privacy Club: Richard Stallman Interview
 - [Tor Browser](https://www.torproject.org/download/) - Use Tor Browser for actual privacy.
 - [NextDNS](https://nextdns.io/) - Block ads and websites at the router/DNS level across [all your devices](https://polarhive.ml/videos/notes/nextdns-dns-firewall-for-privacy)
 - [Firefox Tweaks](https://wiki.archlinux.org/title/Firefox/Privacy)
@@ -16,7 +16,7 @@ Privacy is a basic human right.
 - [Firefox Enterprise Policies](https://support.mozilla.org/en-US/kb/managing-policies-linux-desktops)
 - [Firefox Enterprise Policy Templates](https://github.com/mozilla/policy-templates)
 - [What’s the best ad blocker for you? - Firefox Add-on Reviews](https://addons.mozilla.org/blog/whats-the-best-ad-blocker-for-you/)
-- Use Proxy-services (Invidious, Nitter, Bibliogram, Libreddit)
+- Use Proxy-services (Piped, Invidious, Nitter, Bibliogram, Libreddit)
 - Use a libre OS like [GNU/Linux](https://codeberg.org/polarhive/knowledge/src/branch/main/tech/linux.md) for privacy.
 - [Brave](https://polarhive.ml/videos/notes/hardening-brave-browser) - Do not use the defaults. Brave's sole purpose is to get users to sign up for Brave Rewards and BAT.
 - [Privacy Guide](https://anonymousplanet.org/guide.pdf)
