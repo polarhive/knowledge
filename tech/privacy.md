@@ -20,3 +20,4 @@ Privacy is a basic human right.
 - Use a libre OS like [GNU/Linux](https://codeberg.org/polarhive/knowledge/src/branch/main/tech/linux.md) for privacy.
 - [Brave](https://polarhive.ml/videos/notes/hardening-brave-browser) - Do not use the defaults. Brave's sole purpose is to get users to sign up for Brave Rewards and BAT.
 - [Privacy Guide](https://anonymousplanet.org/guide.pdf)
+- [The three laws of personal devices](https://alirezahayati.com/2021/12/18/the-three-laws-of-personal-devices/)
