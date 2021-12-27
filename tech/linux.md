@@ -26,3 +26,4 @@ So what's GNU? - GNU's Not UNIX :P, **GNU's not proprietary software.**
 - [Sway Rice](https://github.com/sora6kq/sway-dots)
 - [hacking](https://www.technologyreview.com/2007/08/15/224210/that-hack-25-years-later/) - clever people
 - [1111111111111111111111111111111 & Unix Epoch](https://piped.kavin.rocks/watch?v=QOeWxA9sXFY)
+- [Cool, but obscure X11 tools]()

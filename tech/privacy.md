@@ -21,3 +21,5 @@ Privacy is a basic human right.
 - [Brave](https://polarhive.ml/videos/notes/hardening-brave-browser) - Do not use the defaults. Brave's sole purpose is to get users to sign up for Brave Rewards and BAT.
 - [Privacy Guide](https://anonymousplanet.org/guide.pdf)
 - [The three laws of personal devices](https://alirezahayati.com/2021/12/18/the-three-laws-of-personal-devices/)
+- [A wake-up call for iPhone users -- it's time to go](https://www.fsf.org/news/a-wake-up-call-for-iphone-users-its-time-to-go)
+
