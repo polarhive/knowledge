@@ -18,5 +18,4 @@ FOSS & bloat free-software
 - [How to Create and Share Torrents](https://odysee.com/@AlphaNerd:8/how-to-create-and-share-torrents:e)
 - [Teach Yourself CS](https://teachyourselfcs.com/)
 - [Learn Rust](https://doc.rust-lang.org/book/)
-- [Kooha](https://flathub.org/apps/details/io.github.seadve.Kooha) - Screenrecording on Wayland
-
+- [Kooha](https://flathub.org/apps/details/io.github.seadve.Kooha) - Screen recording on Wayland
