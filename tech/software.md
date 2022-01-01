@@ -19,3 +19,5 @@ FOSS & bloat free-software
 - [Teach Yourself CS](https://teachyourselfcs.com/)
 - [Learn Rust](https://doc.rust-lang.org/book/)
 - [Kooha](https://flathub.org/apps/details/io.github.seadve.Kooha) - Screen recording on Wayland
+- [Everything is a Browser](https://matt-rickard.com/everything-is-a-browser/)
+
