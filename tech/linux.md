@@ -28,3 +28,15 @@ So what's GNU? - GNU's Not UNIX :P, **GNU's not proprietary software.**
 - [1111111111111111111111111111111 & Unix Epoch](https://piped.kavin.rocks/watch?v=QOeWxA9sXFY)
 - [Cool, but obscure X11 tools](https://cyber.dabamos.de/unix/x11/)
 - [Pacgraph](http://kmkeen.com/pacgraph/)
+
+## packages/tools
+
+- [``brightnessctl``](https://repology.org/project/brightnessctl/information)
+- [``playerctl``](https://repology.org/project/playerctl/information)
+- [``paru``](https://repology.org/project/paru/information)
+- [``newsboat``](https://repology.org/project/newsboat/information)
+- [``ntfs-3g``](https://repology.org/project/ntfs-3g/information)
+- [``xdg-desktop-portal``](https://repology.org/project/xdg-desktop-portal/information)
+- [``gvfs-mtp``](https://repology.org/project/gvfs-mtp/information)
+- [``noto-fonts``](https://archlinux.org/packages/extra/any/noto-fonts/)
+- [``noto-fonts-cjk``](https://archlinux.org/packages/extra/any/noto-fonts-cjk/)
