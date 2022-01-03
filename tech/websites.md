@@ -14,3 +14,4 @@ There's no need for drag and drop website builders, it blinds you from being cre
 - [weblite](https://codeberg.org/Weblite/)
 - [Advanced Search](https://support.google.com/websearch/answer/35890) - Do an Advanced Search on Google
 - [12ft](https://12ft.io/) - Bypass paywalls
+- [notrashsearch](https://notrashsearch.github.io) - A neat Google search wrapper
