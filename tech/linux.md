@@ -28,6 +28,7 @@ So what's GNU? - GNU's Not UNIX :P, **GNU's not proprietary software.**
 - [1111111111111111111111111111111 & Unix Epoch](https://piped.kavin.rocks/watch?v=QOeWxA9sXFY)
 - [Cool, but obscure X11 tools](https://cyber.dabamos.de/unix/x11/)
 - [Pacgraph](http://kmkeen.com/pacgraph/)
+- [Firefox GNOME theme](https://github.com/rafaelmardojai/firefox-gnome-theme)
 
 ## packages/tools
 
