@@ -13,4 +13,3 @@ Music production / listening to music
 - [Farplay](https://farplay.io/)
 - [Jamulus](https://jamulus.io/)
 - [hound.fm](https://hound.fm)
-

@@ -1,6 +1,6 @@
 # mathematics
 
-- [statistics](./stats.md)
+- [statistics](stats.md)
 - [The Map of Mathematics](https://piped.kavin.rocks/watch?v=OmJ-4B-mS-Y)
 - [Imaginary Numbers are Real [PART 1]](https://piped.kavin.rocks/watch?v=T647CGsuOVU)
 - [Imaginary Numbers are Real [PART 2]](https://piped.kavin.rocks/watch?v=2HrSG0fdxLY)
