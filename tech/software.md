@@ -23,3 +23,4 @@ FOSS & bloat free-software
 - [Kooha](https://flathub.org/apps/details/io.github.seadve.Kooha) - Screen recording on Wayland
 - [Everything is a Browser](https://matt-rickard.com/everything-is-a-browser/)
 - [Tauri](https://tauri.studio/en/) - like Electron but faster, smaller & secure built in Rust
+- [Darling](https://www.darlinghq.org/) - Run MacOS apps on GNU/Linux
