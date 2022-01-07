@@ -16,10 +16,9 @@ Privacy is a basic human right.
 - [Firefox Enterprise Policies](https://support.mozilla.org/en-US/kb/managing-policies-linux-desktops)
 - [Firefox Enterprise Policy Templates](https://github.com/mozilla/policy-templates)
 - [What’s the best ad blocker for you? - Firefox Add-on Reviews](https://addons.mozilla.org/blog/whats-the-best-ad-blocker-for-you/)
-- Use Proxy-services (Piped, Invidious, Nitter, Bibliogram, Libreddit)
+- Use Proxy-services [(Piped, Invidious, Nitter, Bibliogram, Libreddit)](https://github.com/SimonBrazell/privacy-redirect) - Use Privacy Redirect to help you with that.
 - Use a libre OS like [GNU/Linux](https://codeberg.org/polarhive/knowledge/src/branch/main/tech/linux.md) for privacy.
-- [Brave](https://polarhive.ml/videos/notes/hardening-brave-browser) - Do not use the defaults. Brave's sole purpose is to get users to sign up for Brave Rewards and BAT.
+- [Brave](https://polarhive.ml/videos/notes/hardening-brave-browser) - Do not use the defaults. Brave's sole [purpose](https://polarhive.ml/blog/brave) is to get users to sign up for Brave Rewards and BAT.
 - [Privacy Guide](https://anonymousplanet.org/guide.pdf)
 - [The three laws of personal devices](https://alirezahayati.com/2021/12/18/the-three-laws-of-personal-devices/)
 - [A wake-up call for iPhone users -- it's time to go](https://www.fsf.org/news/a-wake-up-call-for-iphone-users-its-time-to-go)
-

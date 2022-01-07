@@ -16,4 +16,4 @@ There's no need for drag and drop website builders, it blinds you from being cre
 - [12ft](https://12ft.io/) - Bypass paywalls
 - [notrashsearch](https://notrashsearch.github.io) - A neat Google search wrapper
 - [Only Recipe](https://onlyrecipe.app/)
-- [blogdb](https://blogdb.org/) - A community of bloggers 
+- [blogdb](https://blogdb.org/) - A community of bloggers
