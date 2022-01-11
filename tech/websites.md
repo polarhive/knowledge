@@ -11,6 +11,7 @@ There's no need for drag and drop website builders, it blinds you from being cre
 - [simplewebsite](https://codeberg.org/polarhive/simplewebsite/) - here's the template used.
 - [Element CSS](https://elementcss.neocities.org/)
 - [new.css](https://newcss.net/) - The CSS theme I use for [my site](https://polarhive.ml)
+- [picocss](https://picocss.com/)
 - [weblite](https://codeberg.org/Weblite/)
 - [Advanced Search](https://support.google.com/websearch/answer/35890) - Do an Advanced Search on Google
 - [12ft](https://12ft.io/) - Bypass paywalls
