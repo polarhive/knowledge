@@ -1,6 +1,6 @@
 # fonts
 
-Beautiful fonts and typefaces
+Beautiful fonts & typefaces
 
 ## links
 
