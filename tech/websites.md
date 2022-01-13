@@ -19,3 +19,4 @@ There's no need for drag and drop website builders, it blinds you from being cre
 - [Only Recipe](https://onlyrecipe.app/)
 - [blogdb](https://blogdb.org/) - A community of bloggers
 - [Evil Wordle](https://swag.github.io/evil-wordle/)
+- [Keyboard drill](https://keyboard-drill.com/)
