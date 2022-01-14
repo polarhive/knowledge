@@ -29,6 +29,7 @@ So what's GNU? - GNU's Not UNIX :P, **GNU's not proprietary software.**
 - [Cool, but obscure X11 tools](https://cyber.dabamos.de/unix/x11/)
 - [Pacgraph](http://kmkeen.com/pacgraph/)
 - [Firefox GNOME theme](https://github.com/rafaelmardojai/firefox-gnome-theme)
+- [Modern UNIX](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands. 
 
 ## packages/tools
 
