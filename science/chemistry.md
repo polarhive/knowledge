@@ -10,3 +10,6 @@
 - [NCERT Grade 11 Chemistry](https://ncert.nic.in/textbook.php?kech1=0-7) - If you're from India.
 - [Chemistry Library](https://www.khanacademy.org/science/chemistry/) - Khan Academy
 - [The History of Atomic Chemistry](https://piped.kavin.rocks/watch?v=thnDxFdkzZs) - Crash Course Chemistry
+- [IUPAC Nomenclature](https://iupac.qmul.ac.uk/) - Official site
+- [IUPAC Units & Physical Quantities](https://iupac.org/wp-content/uploads/2019/05/IUPAC-GB3-2012-2ndPrinting-PDFsearchable.pdf)
+
