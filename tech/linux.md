@@ -16,6 +16,7 @@ So what's GNU? - GNU's Not UNIX :P, **GNU's not proprietary software.**
 
 ## links
 
+- [AT&T Archives: The UNIX Operating System](https://piped.kavin.rocks/watch?v=tc4ROCJYbm0)
 - [Fedora GNU/Linux](https://fedoraproject.org/) - Very well polished, with a great UX for new users.
 - [Arch GNU/Linux](https://archlinux.org/) - Super minimal, up-to-date distro. An easy [cli install-wizard](https://github.com/archlinux/archinstall/)
 - [Flatpak](https://flatpak.org) - Cross device app packaging format.
@@ -29,7 +30,7 @@ So what's GNU? - GNU's Not UNIX :P, **GNU's not proprietary software.**
 - [Cool, but obscure X11 tools](https://cyber.dabamos.de/unix/x11/)
 - [Pacgraph](http://kmkeen.com/pacgraph/)
 - [Firefox GNOME theme](https://github.com/rafaelmardojai/firefox-gnome-theme)
-- [Modern UNIX](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands. 
+- [Modern UNIX](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands
 
 ## packages/tools
 
