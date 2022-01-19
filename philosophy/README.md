@@ -8,4 +8,8 @@ Laws, sayings & mantras from the most weird parts of my brain. Some of them - I'
 - Data once collected, can & will - be abused. Therefore don't give too much information
 - Time is wealthy
 - We are not living in a simulation
+- English is a modern, global language that everyone should be able to interpret
+- Learning atleast one foreign language is a must
+- Web0 > Web3
+- Cash > crypto, at local shops
 
