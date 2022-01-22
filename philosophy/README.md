@@ -13,4 +13,5 @@ Laws, sayings & mantras from the most weird parts of my brain. Some of them - I'
 - Web0 > Web3
 - Cash > crypto, at local shops
 - Cold showers unless you're sick
+- Credit cards are a scam
 
