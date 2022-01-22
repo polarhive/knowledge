@@ -14,4 +14,9 @@ Laws, sayings & mantras from the most weird parts of my brain. Some of them - I'
 - Cash > crypto, at local shops
 - Cold showers unless you're sick
 - Credit cards are a scam
+- Wake up before your alarm preferably @ 05:30
+- Don't sleep during the day [make use of sunlight]
+- Treadmills, bench presses, gyms & artificial forms of indoor fitness is unhealthy
+- Adults don't need 3 square meals a day. Assuming you don't sweat much - live a sedentary lifestyle. Get back to 2½ - 3 meals once you get moving. Don't take supplements or energy drinks.
+- Don't smoke, drink, pollute or harm your body for temporary satisfaction. This includes social media, celebrity advice & other forms of spendthrift consumption.
 
