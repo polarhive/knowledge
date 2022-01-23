@@ -1,4 +1,4 @@
-# philosophy
+# philosophy 🤔
 
 Laws, sayings & mantras from the weirdest parts of my brain. Some of them - I'm still figuring out.
 
@@ -6,7 +6,6 @@ Laws, sayings & mantras from the weirdest parts of my brain. Some of them - I'm 
 - Privacy is proportional to Security, but is not the same
 - Human knowledge should be free for anyone to build upon & share
 - The only way you own your computer is when you run [libre software](https://polarhive.ml/blog/free-libre-software) on it
-
 - Data once collected, can & will - be abused. Therefore don't give too much information
 - Time is wealthy
 - We are not living in a simulation
@@ -28,3 +27,8 @@ Laws, sayings & mantras from the weirdest parts of my brain. Some of them - I'm 
 - Help anyone in need but - don't spoonfeed
 - Document & [share everything you know](https://polarhive.ml/wiki)
 - Don't watch the news (TV)
+
+---
+alt link [mirrored to my website](https://polarhive.ml/philosophy)
+
+---
