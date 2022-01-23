@@ -4,6 +4,7 @@ Lifestyle and interesting personalities
 
 - [minimalism](minimalism.md)
 - [productivity](productivity.md)
+- [philosophy](philosophy.md)
 
 ## links
 
