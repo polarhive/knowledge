@@ -11,6 +11,7 @@ A digital-garden. Where I share interesting things I have learnt so far, about t
 - [~/minimalism](https://codeberg.org/polarhive/knowledge/src/branch/main/lifestyle/minimalism.md)
 - [~/privacy](https://codeberg.org/polarhive/knowledge/src/branch/main/tech/privacy.md)
 - [~/lifestyle](https://codeberg.org/polarhive/knowledge/src/branch/main/lifestyle/)
+- [~/philosophy](https://codeberg.org/polarhive/knowledge/src/branch/main/tech/philosophy.md)
 - [~/software](https://codeberg.org/polarhive/knowledge/src/branch/main/tech/software.md)
 - [~/tech](https://codeberg.org/polarhive/knowledge/src/branch/main/tech/)
 

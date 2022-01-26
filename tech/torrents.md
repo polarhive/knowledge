@@ -9,3 +9,5 @@ Torrents are fast & help decentralize the internet.
 - [LBRY://](https://lbry.com) - File sharing marketplace
 - [PeerTube](https://joinpeertube.org/) - ActivityPub powered P2P video sharing platform
 - [Transmission](https://transmissionbt.com) - GTK client
+- [Netflix vs Average 4 Lines of Code](https://piped.kavin.rocks/watch?v=FbE19_omaWY) - programming minimalism at it's best
+
