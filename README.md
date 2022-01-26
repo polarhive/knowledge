@@ -8,12 +8,12 @@ A digital-garden. Where I share interesting things I have learnt so far, about t
 
 ## Example entries
 
-- [~/minimalism](https://codeberg.org/polarhive/knowledge/src/branch/main/lifestyle/minimalism.md)
-- [~/privacy](https://codeberg.org/polarhive/knowledge/src/branch/main/tech/privacy.md)
-- [~/lifestyle](https://codeberg.org/polarhive/knowledge/src/branch/main/lifestyle/)
-- [~/philosophy](https://codeberg.org/polarhive/knowledge/src/branch/main/tech/philosophy.md)
-- [~/software](https://codeberg.org/polarhive/knowledge/src/branch/main/tech/software.md)
-- [~/tech](https://codeberg.org/polarhive/knowledge/src/branch/main/tech/)
+- [~/minimalism](lifestyle/minimalism.md)
+- [~/privacy](tech/privacy.md)
+- [~/lifestyle](lifestyle.md)
+- [~/philosophy](lifestyle/philosophy.md)
+- [~/software](tech/software.md)
+- [~/science](science.md)
 
 Feel free to [contribute](mailto:polarhive@protonmail.com?subject=garden-entry&body=hey%20i%20found%20a%20cool%20thing%20i'd%20like%20you%20to%20feature%20in%20this%20repo%2C%20but%20don't%20know%20git%20or%20nerdy%20computer%20stuff%20%3A); send feedback via [this](https://polarhive.ml/contact/) form
 
