@@ -25,3 +25,4 @@ FOSS & bloat free-software
 - [Tauri](https://tauri.studio/en/) - like Electron but faster, smaller & secure built in Rust
 - [Darling](https://www.darlinghq.org/) - Run MacOS apps on GNU/Linux
 - [Simple Git Workflow](https://unixsheikh.com/tutorials/a-simple-git-workflow-using-main-as-the-development-branch.html)
+- [YouTube Spammer Purge](https://github.com/ThioJoe/YT-Spammer-Purge)
