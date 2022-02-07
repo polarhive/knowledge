@@ -27,4 +27,5 @@ FOSS & bloat free-software
 - [Simple Git Workflow](https://unixsheikh.com/tutorials/a-simple-git-workflow-using-main-as-the-development-branch.html)
 - [YouTube Spammer Purge](https://github.com/ThioJoe/YT-Spammer-Purge)
 - [dangerzone](https://github.com/firstlookmedia/dangerzone)
+- [PGP Guide](https://garrit.xyz/posts/2021-04-07-pgp-guide)
 
