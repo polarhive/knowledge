@@ -28,4 +28,5 @@ FOSS & bloat free-software
 - [YouTube Spammer Purge](https://github.com/ThioJoe/YT-Spammer-Purge)
 - [dangerzone](https://github.com/firstlookmedia/dangerzone)
 - [PGP Guide](https://garrit.xyz/posts/2021-04-07-pgp-guide)
+- [Talk.io](https://usetalk.io/)
 
