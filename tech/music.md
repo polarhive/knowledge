@@ -13,3 +13,5 @@ Music production / listening to music
 - [Farplay](https://farplay.io/)
 - [Jamulus](https://jamulus.io/)
 - [hound.fm](https://hound.fm)
+- [The most mind-blowing concept in music (Harmonic Series)](https://piped.kavin.rocks/watch?v=Wx_kugSemfY)
+
