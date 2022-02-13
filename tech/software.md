@@ -29,4 +29,5 @@ FOSS & bloat free-software
 - [dangerzone](https://github.com/firstlookmedia/dangerzone)
 - [PGP Guide](https://garrit.xyz/posts/2021-04-07-pgp-guide)
 - [Talk.io](https://usetalk.io/)
+- [Nyxt browser](https://nyxt.atlas.engineer/)
 
