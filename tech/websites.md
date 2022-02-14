@@ -21,4 +21,5 @@ There's no need for drag and drop website builders, it blinds you from being cre
 - [Evil Wordle](https://swag.github.io/evil-wordle/)
 - [Keyboard drill](https://keyboard-drill.com/)
 - [Web Clean-up Days](https://webcleanupdays.com/)
+- [scribe](https://scribe.rip/)
 
