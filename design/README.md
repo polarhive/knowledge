@@ -10,4 +10,5 @@ A pleasant, user-focused UX
 - [blender](https://blender.org)
 - [RayTracing Guide](https://raytracing.github.io/)
 - [Radix colors](https://www.radix-ui.com/colors)
+- [SVG Path Editor](https://yqnn.github.io/svg-path-editor/)
 
