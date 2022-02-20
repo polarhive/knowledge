@@ -32,4 +32,5 @@ FOSS & bloat free-software
 - [Nyxt browser](https://nyxt.atlas.engineer/)
 - [compact fox](https://github.com/Tnings/CompactFox)
 - [What is Cryptography?](https://piped.kavin.rocks/watch?v=APOYFblIBuo)
+- [Adblock Tester](https://adblock-tester.com/)
 
