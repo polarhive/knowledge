@@ -8,4 +8,5 @@
 - [The Prisoner's Dilemma](https://piped.kavin.rocks/watch?v=t9Lo2fgxWHw)
 - [Matrix Multiplication](http://matrixmultiplication.xyz/)
 - [The Simplest Math Problem No One Can Solve](https://odysee.com/@veritasium:f/the-simplest-math-problem-no-one-can:7)
+- [Nerdle](https://nerdlegame.com/)
 
