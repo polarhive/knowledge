@@ -22,4 +22,5 @@ There's no need for drag and drop website builders, it blinds you from being cre
 - [Keyboard drill](https://keyboard-drill.com/)
 - [Web Clean-up Days](https://webcleanupdays.com/)
 - [scribe](https://scribe.rip/)
+- [terminal.sexy](https://terminal.sexy/)
 
