@@ -33,4 +33,5 @@ FOSS & bloat free-software
 - [compact fox](https://github.com/Tnings/CompactFox)
 - [What is Cryptography?](https://piped.kavin.rocks/watch?v=APOYFblIBuo)
 - [Adblock Tester](https://adblock-tester.com/)
+- [mpv: The Best Video Player for Language Learning](https://piped.kavin.rocks/watch?v=bbg6ztWecbU)
 
