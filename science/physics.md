@@ -9,3 +9,4 @@
 - [The complete FUN TO IMAGINE with Richard Feynman](https://piped.kavin.rocks/watch?v=P1ww1IXRfTA)
 - [General Talk by H.C. Verma](https://piped.kavin.rocks/watch?v=o2mERiqlxZg)
 - [Inside The Most Precise Atomic Clock in the World](https://piped.kavin.rocks/watch?v=_5sTxL-vvGU)
+- [Mystery of Prince Rupert's Drop](https://piped.kavin.rocks/watch?v=xe-f4gokRBs)
