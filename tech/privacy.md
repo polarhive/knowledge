@@ -23,4 +23,5 @@ Privacy is a basic human right.
 - [The three laws of personal devices](https://alirezahayati.com/2021/12/18/the-three-laws-of-personal-devices/)
 - [A wake-up call for iPhone users -- it's time to go](https://www.fsf.org/news/a-wake-up-call-for-iphone-users-its-time-to-go)
 - [No Script Fingerprinting](https://noscriptfingerprint.com/)
+- [libredirect](https://libredirect.github.io/)
 
