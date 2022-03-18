@@ -35,4 +35,5 @@ FOSS & bloat free-software
 - [Adblock Tester](https://adblock-tester.com/)
 - [mpv: The Best Video Player for Language Learning](https://piped.kavin.rocks/watch?v=bbg6ztWecbU)
 - [GrapheneOS Camera](https://github.com/GrapheneOS/Camera)
+- [NvChad](https://github.com/NvChad/NvChad/)
 
