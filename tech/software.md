@@ -37,4 +37,5 @@ FOSS & bloat free-software
 - [GrapheneOS Camera](https://github.com/GrapheneOS/Camera)
 - [NvChad](https://github.com/NvChad/NvChad/)
 - [icecast](https://www.icecast.org/) 
+- [Nunti](https://www.f-droid.org/packages/com.nunti/)
 
