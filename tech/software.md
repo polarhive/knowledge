@@ -36,6 +36,5 @@ FOSS & bloat free-software
 - [mpv: The Best Video Player for Language Learning](https://piped.kavin.rocks/watch?v=bbg6ztWecbU)
 - [GrapheneOS Camera](https://github.com/GrapheneOS/Camera)
 - [NvChad](https://github.com/NvChad/NvChad/)
-- [icecast](https://www.icecast.org/) 
+- [icecast](https://www.icecast.org/)
 - [Nunti](https://www.f-droid.org/packages/com.nunti/)
-
