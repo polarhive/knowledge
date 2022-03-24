@@ -25,4 +25,5 @@ Privacy is a basic human right.
 - [No Script Fingerprinting](https://noscriptfingerprint.com/)
 - [libredirect](https://libredirect.github.io/)
 - [mailvelope](https://mailvelope.com/en)
+- [Android Uninstall Preinstalled Apps](https://odysee.com/@metalx1000:c/android-uninstall-preinstalled-apps:e)
 
