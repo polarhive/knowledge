@@ -38,3 +38,5 @@ FOSS & bloat free-software
 - [NvChad](https://github.com/NvChad/NvChad/)
 - [icecast](https://www.icecast.org/)
 - [Nunti](https://www.f-droid.org/packages/com.nunti/)
+- [kiwix](https://www.kiwix.org/en/)
+
