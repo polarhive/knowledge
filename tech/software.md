@@ -39,4 +39,5 @@ FOSS & bloat free-software
 - [icecast](https://www.icecast.org/)
 - [Nunti](https://www.f-droid.org/packages/com.nunti/)
 - [kiwix](https://www.kiwix.org/en/)
+- [cactus chat](https://cactus.chat/demo)
 
