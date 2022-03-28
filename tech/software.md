@@ -40,4 +40,5 @@ FOSS & bloat free-software
 - [Nunti](https://www.f-droid.org/packages/com.nunti/)
 - [kiwix](https://www.kiwix.org/en/)
 - [cactus chat](https://cactus.chat/demo)
+- [matrix](https://matrix.org)
 
