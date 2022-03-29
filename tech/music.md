@@ -14,4 +14,5 @@ Music production / listening to music
 - [Jamulus](https://jamulus.io/)
 - [hound.fm](https://hound.fm)
 - [The most mind-blowing concept in music (Harmonic Series)](https://piped.kavin.rocks/watch?v=Wx_kugSemfY)
+- [web-scrobbler](https://web-scrobbler.com/)
 
