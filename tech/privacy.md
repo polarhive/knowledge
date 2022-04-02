@@ -26,4 +26,5 @@ Privacy is a basic human right.
 - [libredirect](https://libredirect.github.io/)
 - [mailvelope](https://mailvelope.com/en)
 - [Android Uninstall Preinstalled Apps](https://odysee.com/@metalx1000:c/android-uninstall-preinstalled-apps:e)
+- [Dice Password Generation](https://theintercept.com/2015/03/26/passphrases-can-memorize-attackers-cant-guess/)
 
