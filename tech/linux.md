@@ -31,6 +31,7 @@ So what's GNU? - GNU's Not UNIX :P, **GNU's not proprietary software.**
 - [Pacgraph](http://kmkeen.com/pacgraph/)
 - [Firefox GNOME theme](https://github.com/rafaelmardojai/firefox-gnome-theme)
 - [Modern UNIX](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands
+- [The Complete History of Linux (Abridged)](https://piped.kavin.rocks/watch?v=UjDQtNYxtbU)
 
 ## packages/tools
 
