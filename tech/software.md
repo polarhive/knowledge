@@ -41,4 +41,5 @@ FOSS & bloat free-software
 - [kiwix](https://www.kiwix.org/en/)
 - [cactus chat](https://cactus.chat/demo)
 - [matrix](https://matrix.org)
+- [scrcpy](https://github.com/Genymobile/scrcpy)
 
