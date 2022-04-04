@@ -13,3 +13,5 @@ A pleasant, user-focused UX
 - [SVG Path Editor](https://yqnn.github.io/svg-path-editor/)
 - [Hue tools](http://hue.tools)
 - [Librem 5 Photo Processing Tutorial](https://puri.sm/posts/librem-5-photo-processing-tutorial/)
+- [MacPaint clone](https://paint.withdiagram.com/)
+
