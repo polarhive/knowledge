@@ -42,4 +42,4 @@ FOSS & bloat free-software
 - [cactus chat](https://cactus.chat/demo)
 - [matrix](https://matrix.org)
 - [scrcpy](https://github.com/Genymobile/scrcpy)
-
+- [stellarium](https://stellarium.org/)
