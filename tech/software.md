@@ -43,3 +43,4 @@ FOSS & bloat free-software
 - [matrix](https://matrix.org)
 - [scrcpy](https://github.com/Genymobile/scrcpy)
 - [stellarium](https://stellarium.org/)
+- [VIM: airline](https://github.com/vim-airline/vim-airline)
