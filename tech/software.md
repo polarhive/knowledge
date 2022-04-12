@@ -44,3 +44,5 @@ FOSS & bloat free-software
 - [scrcpy](https://github.com/Genymobile/scrcpy)
 - [stellarium](https://stellarium.org/)
 - [VIM: airline](https://github.com/vim-airline/vim-airline)
+- [helix editor](helix-editor.com)
+

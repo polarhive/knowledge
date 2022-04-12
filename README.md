@@ -15,7 +15,7 @@ A digital-garden. Where I share interesting things I have learnt so far, about t
 - [~/software](tech/software.md)
 - [~/science](science)
 
-Feel free to [contribute](mailto:polarhive@protonmail.com?subject=garden-entry&body=hey%20i%20found%20a%20cool%20thing%20i'd%20like%20you%20to%20feature%20in%20this%20repo%2C%20but%20don't%20know%20git%20or%20nerdy%20computer%20stuff%20%3A); send feedback via [this](https://polarhive.ml/contact/) form
+Feel free to [contribute](mailto:polarhive@riseup.net?subject=garden-entry&body=hey%20i%20found%20a%20cool%20thing%20i'd%20like%20you%20to%20feature%20in%20this%20repo%2C%20but%20don't%20know%20git%20or%20nerdy%20computer%20stuff%20%3A); send feedback via [this](https://polarhive.ml/contact/) form
 
 ---
 
