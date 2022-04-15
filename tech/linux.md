@@ -32,6 +32,7 @@ So what's GNU? - GNU's Not UNIX :P, **GNU's not proprietary software.**
 - [Firefox GNOME theme](https://github.com/rafaelmardojai/firefox-gnome-theme)
 - [Modern UNIX](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands
 - [The Complete History of Linux (Abridged)](https://piped.kavin.rocks/watch?v=UjDQtNYxtbU)
+- [You Should use PipeWire,,, NOW!!](https://piped.kavin.rocks/watch?v=5a7_2mA2LYQ)
 
 ## packages/tools
 
@@ -44,3 +45,4 @@ So what's GNU? - GNU's Not UNIX :P, **GNU's not proprietary software.**
 - [``gvfs-mtp``](https://repology.org/project/gvfs-mtp/information)
 - [``noto-fonts``](https://archlinux.org/packages/extra/any/noto-fonts/)
 - [``noto-fonts-cjk``](https://archlinux.org/packages/extra/any/noto-fonts-cjk/)
+
