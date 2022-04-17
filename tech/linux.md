@@ -34,6 +34,7 @@ So what's GNU? - GNU's Not UNIX :P, **GNU's not proprietary software.**
 - [The Complete History of Linux (Abridged)](https://piped.kavin.rocks/watch?v=UjDQtNYxtbU)
 - [You Should use PipeWire,,, NOW!!](https://piped.kavin.rocks/watch?v=5a7_2mA2LYQ)
 - [Basics of the Unix Philosophy](http://www.catb.org/esr/writings/taoup/html/ch01s06.html)
+- [git-send-email](https://git-send-email.io/)
 
 ## packages/tools
 
