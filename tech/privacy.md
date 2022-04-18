@@ -28,4 +28,5 @@ Privacy is a basic human right.
 - [Android Uninstall Preinstalled Apps](https://odysee.com/@metalx1000:c/android-uninstall-preinstalled-apps:e)
 - [Dice Password Generation](https://theintercept.com/2015/03/26/passphrases-can-memorize-attackers-cant-guess/)
 - [FSF's email self defense guide](https://emailselfdefense.fsf.org/en/)
+- [beatbump](beatbump.ml)
 
