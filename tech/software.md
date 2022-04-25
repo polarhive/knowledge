@@ -45,4 +45,5 @@ FOSS & bloat free-software
 - [stellarium](https://stellarium.org/)
 - [VIM: airline](https://github.com/vim-airline/vim-airline)
 - [helix editor](helix-editor.com)
+- [castopod](https://castopod.org/)
 

@@ -12,6 +12,7 @@ A digital-garden. Where I share interesting things I have learnt so far, about t
 - [~/privacy](tech/privacy.md)
 - [~/lifestyle](lifestyle)
 - [~/philosophy](lifestyle/philosophy.md)
+- [~/books](books)
 - [~/software](tech/software.md)
 - [~/science](science)
 
