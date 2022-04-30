@@ -46,4 +46,5 @@ FOSS & bloat free-software
 - [VIM: airline](https://github.com/vim-airline/vim-airline)
 - [helix editor](helix-editor.com)
 - [castopod](https://castopod.org/)
+- [Paper](https://flathub.org/apps/details/io.posidon.Paper)
 
