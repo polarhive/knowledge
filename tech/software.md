@@ -47,4 +47,5 @@ FOSS & bloat free-software
 - [helix editor](helix-editor.com)
 - [castopod](https://castopod.org/)
 - [Paper](https://flathub.org/apps/details/io.posidon.Paper)
+- [rnote](https://flathub.org/apps/details/com.github.flxzt.rnote)
 
