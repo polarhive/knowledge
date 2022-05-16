@@ -36,6 +36,7 @@ So what's GNU? - GNU's Not UNIX :P, **GNU's not proprietary software.**
 - [Basics of the Unix Philosophy](http://www.catb.org/esr/writings/taoup/html/ch01s06.html)
 - [git-send-email](https://git-send-email.io/)
 - [pass](https://www.passwordstore.org/)
+- [musikcube](https://github.com/clangen/musikcube)
 
 ## packages/tools
 
