@@ -48,4 +48,5 @@ FOSS & bloat free-software
 - [castopod](https://castopod.org/)
 - [Paper](https://flathub.org/apps/details/io.posidon.Paper)
 - [rnote](https://flathub.org/apps/details/com.github.flxzt.rnote)
+- [tesseract](https://github.com/tesseract-ocr/tesseract) - FOSS OCR software
 
