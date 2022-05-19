@@ -29,4 +29,5 @@ Privacy is a basic human right.
 - [Dice Password Generation](https://theintercept.com/2015/03/26/passphrases-can-memorize-attackers-cant-guess/)
 - [FSF's email self defense guide](https://emailselfdefense.fsf.org/en/)
 - [beatbump](beatbump.ml)
+- [href.li](https://href.li/)
 
