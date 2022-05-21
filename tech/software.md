@@ -50,4 +50,5 @@ FOSS & bloat free-software
 - [rnote](https://flathub.org/apps/details/com.github.flxzt.rnote)
 - [tesseract](https://github.com/tesseract-ocr/tesseract) - FOSS OCR software
 - [instaloader](https://instaloader.github.io/)
+- [onlyoffice](https://www.onlyoffice.com/)
 
