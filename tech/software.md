@@ -51,4 +51,5 @@ FOSS & bloat free-software
 - [tesseract](https://github.com/tesseract-ocr/tesseract) - FOSS OCR software
 - [instaloader](https://instaloader.github.io/)
 - [onlyoffice](https://www.onlyoffice.com/)
+- [sent](https://tools.suckless.org/sent/)
 
