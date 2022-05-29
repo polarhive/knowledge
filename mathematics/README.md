@@ -10,4 +10,5 @@
 - [The Simplest Math Problem No One Can Solve](https://odysee.com/@veritasium:f/the-simplest-math-problem-no-one-can:7)
 - [Nerdle](https://nerdlegame.com/)
 - [Newton's Method](https://en.wikipedia.org/wiki/Newton%27s_method)
+- [Basic College Math](https://piped.kavin.rocks/playlist?list=PL9Wxhr5qVFN2Z_0yYMlF2r_wZmW3PUYAk)
 
