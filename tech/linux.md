@@ -37,6 +37,7 @@ So what's GNU? - GNU's Not UNIX :P, **GNU's not proprietary software.**
 - [git-send-email](https://git-send-email.io/)
 - [pass](https://www.passwordstore.org/)
 - [musikcube](https://github.com/clangen/musikcube)
+- [tar commands](https://scripter.co/disarming-the-tar-bomb-in-10-seconds/)
 
 ## packages/tools
 

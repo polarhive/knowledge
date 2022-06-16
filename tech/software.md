@@ -52,4 +52,5 @@ FOSS & bloat free-software
 - [instaloader](https://instaloader.github.io/)
 - [onlyoffice](https://www.onlyoffice.com/)
 - [sent](https://tools.suckless.org/sent/)
+- [xdg-ninja](https://github.com/b3nj5m1n/xdg-ninja)
 
