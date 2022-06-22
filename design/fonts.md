@@ -13,4 +13,5 @@ Beautiful fonts & typefaces
 - [Arimo](https://www.fontsquirrel.com/fonts/arimo) - The one used in the Tor Browser
 - [Fira Code](https://github.com/tonsky/FiraCode) - I like the ligatures
 - [fontforge](https://fontforge.org)
+- [bunnyfonts](https://fonts.bunny.net/faq)
 
