@@ -55,4 +55,5 @@ FOSS & bloat free-software
 - [xdg-ninja](https://github.com/b3nj5m1n/xdg-ninja)
 - [unclutter](https://unclutter.lindylearn.io/)
 - [wails](https://wails.io/)
+- [openalias](https://openalias.org/)
 
