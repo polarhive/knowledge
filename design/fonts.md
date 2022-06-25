@@ -14,4 +14,5 @@ Beautiful fonts & typefaces
 - [Fira Code](https://github.com/tonsky/FiraCode) - I like the ligatures
 - [fontforge](https://fontforge.org)
 - [bunnyfonts](https://fonts.bunny.net/faq)
+- [manrope](https://manropefont.com/)
 
