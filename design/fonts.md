@@ -15,4 +15,5 @@ Beautiful fonts & typefaces
 - [fontforge](https://fontforge.org)
 - [bunnyfonts](https://fonts.bunny.net/faq)
 - [manrope](https://manropefont.com/)
+- [barlow](https://tribby.com/fonts/barlow/)
 
