@@ -16,4 +16,5 @@ Music production / listening to music
 - [The most mind-blowing concept in music (Harmonic Series)](https://piped.kavin.rocks/watch?v=Wx_kugSemfY)
 - [web-scrobbler](https://web-scrobbler.com/)
 - [Every sound is SINE](https://piped.kavin.rocks/watch?v=UrBZsUBibtk)
+- [PodClassic](https://github.com/0x1317bf7/PodClassic/)
 
