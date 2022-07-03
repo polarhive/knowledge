@@ -56,4 +56,5 @@ FOSS & bloat free-software
 - [unclutter](https://unclutter.lindylearn.io/)
 - [wails](https://wails.io/)
 - [openalias](https://openalias.org/)
+- [#GiveUpGitHub](https://giveupgithub.org)
 
