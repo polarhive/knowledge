@@ -11,3 +11,4 @@ Things that add value to your life
 - [Consume Less. Create More. It’s More Fun.](https://telegra.ph/Consume-Less-Create-More-Its-More-Fun-12-04)
 - [What is "Freedom" Anyway?](https://odysee.com/@Luke:7/what-is-freedom-anyway:8?t=490)
 - [Minimal Wallpaper](https://i.imgur.com/5W9ICzL.png)
+
