@@ -57,4 +57,5 @@ FOSS & bloat free-software
 - [wails](https://wails.io/)
 - [openalias](https://openalias.org/)
 - [#GiveUpGitHub](https://giveupgithub.org)
+- [cstate](https://github.com/cstate/cstate)
 
