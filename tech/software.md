@@ -58,4 +58,5 @@ FOSS & bloat free-software
 - [openalias](https://openalias.org/)
 - [#GiveUpGitHub](https://giveupgithub.org)
 - [cstate](https://github.com/cstate/cstate)
+- [ffshare](https://github.com/caydey/ffshare)
 
