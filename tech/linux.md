@@ -39,6 +39,7 @@ So what's GNU? - GNU's Not UNIX :P, **GNU's not proprietary software.**
 - [musikcube](https://github.com/clangen/musikcube)
 - [tar commands](https://scripter.co/disarming-the-tar-bomb-in-10-seconds/)
 - [miniplayer](https://github.com/guardkenzie/miniplayer)
+- [flare](https://flathub.org/apps/details/de.schmidhuberj.Flare)
 
 ## packages/tools
 
