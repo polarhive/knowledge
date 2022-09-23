@@ -16,4 +16,5 @@ Beautiful fonts & typefaces
 - [bunnyfonts](https://fonts.bunny.net/faq)
 - [manrope](https://manropefont.com/)
 - [barlow](https://tribby.com/fonts/barlow/)
+- [monocraft](https://github.com/IdreesInc/Monocraft)
 
