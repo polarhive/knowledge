@@ -18,4 +18,5 @@ Music production / listening to music
 - [Every sound is SINE](https://piped.kavin.rocks/watch?v=UrBZsUBibtk)
 - [PodClassic](https://github.com/0x1317bf7/PodClassic/)
 - [spotube](https://www.f-droid.org/en/packages/oss.krtirtho.spotube/)
+- [lastfm <--> RSS bridge](https://github.com/xiffy/lfm)
 
