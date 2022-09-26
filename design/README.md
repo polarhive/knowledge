@@ -16,4 +16,5 @@ A pleasant, user-focused UX
 - [MacPaint clone](https://paint.withdiagram.com/)
 - [penumbra](https://github.com/nealmckee/penumbra)
 - [Apple emoji](https://github.com/samuelngs/apple-emoji-linux)
+- [PixaPencil](https://www.f-droid.org/en/packages/com.therealbluepandabear.pixapencil/)
 
