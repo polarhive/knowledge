@@ -30,4 +30,5 @@ Privacy is a basic human right.
 - [FSF's email self defense guide](https://emailselfdefense.fsf.org/en/)
 - [beatbump](beatbump.ml)
 - [href.li](https://href.li/)
+- [featherwallet](https://featherwallet.org/)
 
