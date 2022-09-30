@@ -59,4 +59,5 @@ FOSS & bloat free-software
 - [#GiveUpGitHub](https://giveupgithub.org)
 - [cstate](https://github.com/cstate/cstate)
 - [ffshare](https://github.com/caydey/ffshare)
+- [libre-software license guide](https://man.sr.ht/license.md)
 
