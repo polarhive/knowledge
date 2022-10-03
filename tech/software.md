@@ -61,4 +61,5 @@ FOSS & bloat free-software
 - [ffshare](https://github.com/caydey/ffshare)
 - [libre-software license guide](https://man.sr.ht/license.md)
 - [Open Street Map](https://openstreetmap.org/)
+- [Organic Maps](https://organicmaps.app/)
 
