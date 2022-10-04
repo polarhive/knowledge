@@ -62,4 +62,5 @@ FOSS & bloat free-software
 - [libre-software license guide](https://man.sr.ht/license.md)
 - [Open Street Map](https://openstreetmap.org/)
 - [Organic Maps](https://organicmaps.app/)
+- [learnosm](https://learnosm.org/en/)
 
