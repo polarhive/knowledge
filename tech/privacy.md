@@ -31,4 +31,5 @@ Privacy is a basic human right.
 - [beatbump](beatbump.ml)
 - [href.li](https://href.li/)
 - [featherwallet](https://featherwallet.org/)
+- [minMicroG](https://github.com/friendlyneighborhoodshane/minmicrog_releases/releases)
 
