@@ -15,4 +15,5 @@
 - [How Many Decimals of Pi Do We Really Need?](https://www.jpl.nasa.gov/edu/news/2016/3/16/how-many-decimals-of-%20pi-do-we-really-need/)
 - [The Nescafé Equation (43 coffee beans)](https://piped.kavin.rocks/watch?v=3V84Bi-mzQM)
 - [Plots](https://github.com/alexhuntley/Plots)
+- [This Is the Calculus They Won't Teach You](https://piped.kavin.rocks/watch?v=5M2RWtD4EzI)
 
