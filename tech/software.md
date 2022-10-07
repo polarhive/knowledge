@@ -63,4 +63,5 @@ FOSS & bloat free-software
 - [Open Street Map](https://openstreetmap.org/)
 - [Organic Maps](https://organicmaps.app/)
 - [learnosm](https://learnosm.org/en/)
+- [Rsync Server](https://www.f-droid.org/en/packages/com.github.ktsr42.rsyncserver/)
 
