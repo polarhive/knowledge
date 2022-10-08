@@ -17,4 +17,5 @@ Beautiful fonts & typefaces
 - [manrope](https://manropefont.com/)
 - [barlow](https://tribby.com/fonts/barlow/)
 - [monocraft](https://github.com/IdreesInc/Monocraft)
+- [Cabin](https://commons.wikimedia.org/wiki/Category:Cabin_(typeface)#/media/File:Cabin-font-plain.png)
 
