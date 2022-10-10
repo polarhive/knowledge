@@ -32,4 +32,5 @@ Privacy is a basic human right.
 - [href.li](https://href.li/)
 - [featherwallet](https://featherwallet.org/)
 - [minMicroG](https://github.com/friendlyneighborhoodshane/minmicrog_releases/releases)
+- [LocalCDN](https://codeberg.org/nobody/LocalCDN/)
 
