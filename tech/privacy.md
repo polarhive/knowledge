@@ -33,4 +33,5 @@ Privacy is a basic human right.
 - [featherwallet](https://featherwallet.org/)
 - [minMicroG](https://github.com/friendlyneighborhoodshane/minmicrog_releases/releases)
 - [LocalCDN](https://codeberg.org/nobody/LocalCDN/)
+- [(T)OTP codes should be the first factor](https://webb.spiderden.org/2021/05/05/first-factor-otp/)
 
