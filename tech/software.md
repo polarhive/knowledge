@@ -65,4 +65,5 @@ FOSS & bloat free-software
 - [learnosm](https://learnosm.org/en/)
 - [Rsync Server](https://www.f-droid.org/en/packages/com.github.ktsr42.rsyncserver/)
 - [SMS Import/Export](https://f-droid.org/en/packages/com.github.tmo1.sms_ie/)
+- [RSS Reader](https://f-droid.org/en/packages/me.ash.reader/)
 
