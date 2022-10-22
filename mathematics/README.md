@@ -16,4 +16,5 @@
 - [The Nescafé Equation (43 coffee beans)](https://piped.kavin.rocks/watch?v=3V84Bi-mzQM)
 - [Plots](https://github.com/alexhuntley/Plots)
 - [This Is the Calculus They Won't Teach You](https://piped.kavin.rocks/watch?v=5M2RWtD4EzI)
+- [Understanding the Undrawable Functions](https://piped.kavin.rocks/watch?v=jtIPZJ32-LY)
 
