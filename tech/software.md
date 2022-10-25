@@ -68,4 +68,5 @@ FOSS & bloat free-software
 - [RSS Reader](https://f-droid.org/en/packages/me.ash.reader/)
 - [Geometric Weather](https://f-droid.org/en/packages/wangdaye.com.geometricweather/)
 - [gummi](https://gummi.app/)
+- [WaveLines](https://github.com/markusfisch/WaveLinesWallpaper) Wallpaper
 
