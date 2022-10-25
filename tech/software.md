@@ -67,4 +67,5 @@ FOSS & bloat free-software
 - [SMS Import/Export](https://f-droid.org/en/packages/com.github.tmo1.sms_ie/)
 - [RSS Reader](https://f-droid.org/en/packages/me.ash.reader/)
 - [Geometric Weather](https://f-droid.org/en/packages/wangdaye.com.geometricweather/)
+- [gummi](https://gummi.app/)
 
