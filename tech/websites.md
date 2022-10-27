@@ -30,4 +30,5 @@ There's no need for drag and drop website builders, it blinds you from being cre
 - [sliderland](https://sliderland.blinry.org/)
 - [histography](https://histography.io/)
 - [slow roads](https://slowroads.io/)
+- [detexify](http://detexify.kirelabs.org/classify.html)
 
