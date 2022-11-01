@@ -20,4 +20,5 @@ Music production / listening to music
 - [spotube](https://www.f-droid.org/en/packages/oss.krtirtho.spotube/)
 - [lastfm <--> RSS bridge](https://github.com/xiffy/lfm)
 - [mucke](https://github.com/moritz-weber/mucke)
+- [pano scrobbler](https://github.com/kawaiiDango/pScrobbler)
 
