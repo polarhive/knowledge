@@ -53,4 +53,5 @@ So what's GNU? - GNU's Not UNIX :P, **GNU's not proprietary software.**
 - [``noto-fonts``](https://archlinux.org/packages/extra/any/noto-fonts/)
 - [``noto-fonts-cjk``](https://archlinux.org/packages/extra/any/noto-fonts-cjk/)
 - [``wl-clipboard``](https://github.com/bugaevc/wl-clipboard)
+- [``miniserve``](https://github.com/svenstaro/miniserve)
 
