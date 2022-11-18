@@ -41,6 +41,7 @@ So what's GNU? - GNU's Not UNIX :P, **GNU's not proprietary software.**
 - [miniplayer](https://github.com/guardkenzie/miniplayer)
 - [flare](https://flathub.org/apps/details/de.schmidhuberj.Flare)
 - [numenvoice](https://numenvoice.com/)
+- [rclone](https://rclone.org/)
 
 ## packages/tools
 
