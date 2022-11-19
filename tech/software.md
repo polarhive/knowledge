@@ -69,4 +69,5 @@ FOSS & bloat free-software
 - [Geometric Weather](https://f-droid.org/en/packages/wangdaye.com.geometricweather/)
 - [gummi](https://gummi.app/)
 - [WaveLines](https://github.com/markusfisch/WaveLinesWallpaper) Wallpaper
+- [logseq](https://logseq.com/)
 
