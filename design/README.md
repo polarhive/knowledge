@@ -17,4 +17,7 @@ A pleasant, user-focused UX
 - [penumbra](https://github.com/nealmckee/penumbra)
 - [Apple emoji](https://github.com/samuelngs/apple-emoji-linux)
 - [PixaPencil](https://www.f-droid.org/en/packages/com.therealbluepandabear.pixapencil/)
+- [tailwindcolors](https://tailwindcss.com/docs/customizing-colors)
+- [opencolor](https://yeun.github.io/open-color/)
+- [xkcd-survey colors](https://xkcd.com/color/rgb/)
 
