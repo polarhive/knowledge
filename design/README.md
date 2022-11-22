@@ -20,4 +20,5 @@ A pleasant, user-focused UX
 - [tailwindcolors](https://tailwindcss.com/docs/customizing-colors)
 - [opencolor](https://yeun.github.io/open-color/)
 - [xkcd-survey colors](https://xkcd.com/color/rgb/)
+- [coolors](https://coolors.co)
 
