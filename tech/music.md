@@ -21,4 +21,5 @@ Music production / listening to music
 - [lastfm <--> RSS bridge](https://github.com/xiffy/lfm)
 - [mucke](https://github.com/moritz-weber/mucke)
 - [pano scrobbler](https://github.com/kawaiiDango/pScrobbler)
+- [ytdml](https://github.com/deepjyoti30/ytmdl)
 
