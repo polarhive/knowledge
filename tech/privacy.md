@@ -36,4 +36,5 @@ Privacy is a basic human right.
 - [(T)OTP codes should be the first factor](https://webb.spiderden.org/2021/05/05/first-factor-otp/)
 - [quetre](https://github.com/zyachel/quetre) -  A libre front-end for Quora
 - [hyperpipe](https://codeberg.org/Hyperpipe/Hyperpipe)
+- [unlist your number from truecaller](https://www.truecaller.com/unlisting)
 
