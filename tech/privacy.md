@@ -35,4 +35,5 @@ Privacy is a basic human right.
 - [LocalCDN](https://codeberg.org/nobody/LocalCDN/)
 - [(T)OTP codes should be the first factor](https://webb.spiderden.org/2021/05/05/first-factor-otp/)
 - [quetre](https://github.com/zyachel/quetre) -  A libre front-end for Quora
+- [hyperpipe](https://codeberg.org/Hyperpipe/Hyperpipe)
 
