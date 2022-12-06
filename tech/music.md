@@ -22,4 +22,5 @@ Music production / listening to music
 - [mucke](https://github.com/moritz-weber/mucke)
 - [pano scrobbler](https://github.com/kawaiiDango/pScrobbler)
 - [ytdml](https://github.com/deepjyoti30/ytmdl)
+- [lastfm-widget](https://github.com/JeffreyCA/lastfm-recently-played-readme)
 
