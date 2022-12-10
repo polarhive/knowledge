@@ -14,4 +14,5 @@ Technology, software & the digital world
 - [Android Device Turn On When Power is Connected](https://odysee.com/@metalx1000:c/android-device-turn-on-when-power-is:1)
 - [hacker-laws](https://github.com/dwmkerr/hacker-laws)
 - [dvorak](https://en.wikipedia.org/wiki/Dvorak_keyboard_layout) - English keyboard layout optimized for typing comfort
+- [JIT compilers](https://piped.kavin.rocks/watch?v=d7KHAVaX_Rs)
 
