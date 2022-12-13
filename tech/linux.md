@@ -42,6 +42,7 @@ So what's GNU? - GNU's Not UNIX :P, **GNU's not proprietary software.**
 - [flare](https://flathub.org/apps/details/de.schmidhuberj.Flare)
 - [numenvoice](https://numenvoice.com/)
 - [rclone](https://rclone.org/)
+- [generate ssh keys](https://tailscale.com/learn/generate-ssh-keys/)
 
 ## packages/tools
 
