@@ -70,4 +70,5 @@ FOSS & bloat free-software
 - [gummi](https://gummi.app/)
 - [WaveLines](https://github.com/markusfisch/WaveLinesWallpaper) Wallpaper
 - [logseq](https://logseq.com/)
+- [gpl-enforced](https://gplenforced.org/)
 
