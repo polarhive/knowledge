@@ -21,4 +21,5 @@ A pleasant, user-focused UX
 - [opencolor](https://yeun.github.io/open-color/)
 - [xkcd-survey colors](https://xkcd.com/color/rgb/)
 - [coolors](https://coolors.co)
+- [prettymaps](https://github.com/marceloprates/prettymaps)
 
