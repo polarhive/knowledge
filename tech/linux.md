@@ -43,6 +43,7 @@ So what's GNU? - GNU's Not UNIX :P, **GNU's not proprietary software.**
 - [numenvoice](https://numenvoice.com/)
 - [rclone](https://rclone.org/)
 - [generate ssh keys](https://tailscale.com/learn/generate-ssh-keys/)
+- [seahorse](https://wiki.gnome.org/Apps/Seahorse)
 
 ## packages/tools
 
