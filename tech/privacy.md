@@ -37,4 +37,5 @@ Privacy is a basic human right.
 - [quetre](https://github.com/zyachel/quetre) -  A libre front-end for Quora
 - [hyperpipe](https://codeberg.org/Hyperpipe/Hyperpipe)
 - [unlist your number from truecaller](https://www.truecaller.com/unlisting)
+- [ECC keys — GPG](https://www.gniibe.org/memo/software/gpg/keygen-25519.html)
 
