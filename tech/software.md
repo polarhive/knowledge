@@ -72,4 +72,5 @@ FOSS & bloat free-software
 - [logseq](https://logseq.com/)
 - [gpl-enforced](https://gplenforced.org/)
 - [kicad](https://flathub.org/apps/details/org.kicad.KiCad)
+- [Hacki](https://www.f-droid.org/en/packages/com.jiaqifeng.hacki/)
 
