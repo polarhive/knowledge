@@ -73,4 +73,5 @@ FOSS & bloat free-software
 - [gpl-enforced](https://gplenforced.org/)
 - [kicad](https://flathub.org/apps/details/org.kicad.KiCad)
 - [Hacki](https://www.f-droid.org/en/packages/com.jiaqifeng.hacki/)
+- [youtube-drive](https://github.com/lewangdev/youtube-drive)
 
