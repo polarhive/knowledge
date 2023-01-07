@@ -44,6 +44,7 @@ So what's GNU? - GNU's Not UNIX :P, **GNU's not proprietary software.**
 - [rclone](https://rclone.org/)
 - [generate ssh keys](https://tailscale.com/learn/generate-ssh-keys/)
 - [seahorse](https://wiki.gnome.org/Apps/Seahorse)
+- [pacman auto update](https://github.com/cmuench/pacman-auto-update)
 
 ## packages/tools
 
