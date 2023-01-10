@@ -38,4 +38,5 @@ Privacy is a basic human right.
 - [hyperpipe](https://codeberg.org/Hyperpipe/Hyperpipe)
 - [unlist your number from truecaller](https://www.truecaller.com/unlisting)
 - [ECC keys — GPG](https://www.gniibe.org/memo/software/gpg/keygen-25519.html)
+- [sign git commits using ssh-key](https://calebhearth.com/sign-git-with-ssh)
 
