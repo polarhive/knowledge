@@ -74,4 +74,5 @@ FOSS & bloat free-software
 - [kicad](https://flathub.org/apps/details/org.kicad.KiCad)
 - [Hacki](https://www.f-droid.org/en/packages/com.jiaqifeng.hacki/)
 - [youtube-drive](https://github.com/lewangdev/youtube-drive)
+- [Sky Map](https://f-droid.org/packages/com.google.android.stardroid/)
 
