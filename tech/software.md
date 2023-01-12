@@ -75,4 +75,5 @@ FOSS & bloat free-software
 - [Hacki](https://www.f-droid.org/en/packages/com.jiaqifeng.hacki/)
 - [youtube-drive](https://github.com/lewangdev/youtube-drive)
 - [Sky Map](https://f-droid.org/packages/com.google.android.stardroid/)
+- [NopeCHA](https://github.com/nopecha-ai/nopecha-extension)
 
