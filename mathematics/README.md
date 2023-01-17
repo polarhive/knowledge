@@ -18,4 +18,5 @@
 - [This Is the Calculus They Won't Teach You](https://piped.kavin.rocks/watch?v=5M2RWtD4EzI)
 - [Understanding the Undrawable Functions](https://piped.kavin.rocks/watch?v=jtIPZJ32-LY)
 - [exotic shapes](https://piped.kavin.rocks/watch?v=CVOr7f_VALc)
+- [cryptography](https://piped.video/playlist?list=PL5KkMZvBpo5CdoOxa3dqll2n6KsXqerYO)
 
