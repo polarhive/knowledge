@@ -76,4 +76,5 @@ FOSS & bloat free-software
 - [youtube-drive](https://github.com/lewangdev/youtube-drive)
 - [Sky Map](https://f-droid.org/packages/com.google.android.stardroid/)
 - [NopeCHA](https://github.com/nopecha-ai/nopecha-extension)
+- [WaveFox](https://github.com/QNetITQ/WaveFox)
 
