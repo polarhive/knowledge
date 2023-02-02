@@ -2,7 +2,7 @@
 
 ## "GNU" in the GNU/Linux name doesn't necessarily mean GNU software
 
-GNU + Linux + X11/Wayland + many other components make up a good, [libre OS](https://polarhive.ml/blog/free-libre-software/) that puts the user in [control](https://polarhive.ml/blog/how-i-do-my-computing/). Linux is a cool name but doesn't signify 'freedom' or the original goal behind the hacker ecosystem.  
+GNU + Linux + X11/Wayland + many other components make up a good, [libre OS](https://polarhive.ml/blog/free-libre-software/) that puts the user in [control](https://polarhive.ml/blog/how-i-do-my-computing/). Linux is a cool name but doesn't signify 'freedom' or the original goal behind the hacker ecosystem.
 
 ### What each word implies
 
@@ -45,6 +45,7 @@ So what's GNU? - GNU's Not UNIX :P, **GNU's not proprietary software.**
 - [generate ssh keys](https://tailscale.com/learn/generate-ssh-keys/)
 - [seahorse](https://wiki.gnome.org/Apps/Seahorse)
 - [pacman auto update](https://github.com/cmuench/pacman-auto-update)
+- [Jellyfin on my NAS](https://piped.video/watch?v=4VkY1vTpCJY)
 
 ## packages/tools
 
