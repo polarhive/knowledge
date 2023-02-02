@@ -77,4 +77,5 @@ FOSS & bloat free-software
 - [Sky Map](https://f-droid.org/packages/com.google.android.stardroid/)
 - [NopeCHA](https://github.com/nopecha-ai/nopecha-extension)
 - [WaveFox](https://github.com/QNetITQ/WaveFox)
+- [Sudoku Solver](https://flathub.org/apps/details/io.gitlab.cyberphantom52.sudoku_solver)
 
