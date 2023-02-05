@@ -14,7 +14,6 @@ Productivity
 - [SponsorBlock](https://sponsor.ajay.app/) - Blocks in-video sponsor segments using a crowdsourced API.
 - Get rid of your phone - Use a laptop, do not carry your phone around, at least when you're at home
 - [Asterisk Method](http://www.geometry.org/tex/conc/mathlearn.html)
-- [Use Your Head](https://en.wikipedia.org/wiki/Special:BookSources?isbn=9780563165521) - Tony Buzan
 - [The 5 Minute Rule](https://piped.kavin.rocks/watch?v=rRid6GCJtgc)
 - [Quit social media | Dr. Cal Newport](https://piped.kavin.rocks/watch?v=3E7hkPZ-HTk)
 - [Productivity Text File](https://jeffhuang.com/productivity_text_file/)
