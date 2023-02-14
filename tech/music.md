@@ -23,4 +23,5 @@ Music production / listening to music
 - [pano scrobbler](https://github.com/kawaiiDango/pScrobbler)
 - [ytdml](https://github.com/deepjyoti30/ytmdl)
 - [lastfm-widget](https://github.com/JeffreyCA/lastfm-recently-played-readme)
+- [monophony](https://flathub.org/apps/details/io.gitlab.zehkira.Monophony)
 
