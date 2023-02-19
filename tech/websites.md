@@ -32,4 +32,5 @@ There's no need for drag and drop website builders, it blinds you from being cre
 - [slow roads](https://slowroads.io/)
 - [detexify](http://detexify.kirelabs.org/classify.html)
 - [thistothat](https://thistothat.com)
+- [staticrypt](https://github.com/robinmoisson/staticrypt)
 
