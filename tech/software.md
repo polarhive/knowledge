@@ -78,4 +78,5 @@ FOSS & bloat free-software
 - [NopeCHA](https://github.com/nopecha-ai/nopecha-extension)
 - [WaveFox](https://github.com/QNetITQ/WaveFox)
 - [Sudoku Solver](https://flathub.org/apps/details/io.gitlab.cyberphantom52.sudoku_solver)
+- [find my device](https://f-droid.org/en/packages/de.nulide.findmydevice/)
 
