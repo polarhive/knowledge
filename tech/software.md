@@ -79,4 +79,5 @@ FOSS & bloat free-software
 - [WaveFox](https://github.com/QNetITQ/WaveFox)
 - [Sudoku Solver](https://flathub.org/apps/details/io.gitlab.cyberphantom52.sudoku_solver)
 - [find my device](https://f-droid.org/en/packages/de.nulide.findmydevice/)
+- [touchdroid](https://www.f-droid.org/packages/com.akshayaap.touchdroid/)
 
