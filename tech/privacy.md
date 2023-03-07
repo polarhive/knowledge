@@ -40,4 +40,5 @@ Privacy is a basic human right.
 - [ECC keys — GPG](https://www.gniibe.org/memo/software/gpg/keygen-25519.html)
 - [sign git commits using ssh-key](https://calebhearth.com/sign-git-with-ssh)
 - [Will Quantum Computers break encryption](https://piped.video/watchv?=6H_9l9N3IXU)
+- [openandroidinstaller](https://openandroidinstaller.org)
 
