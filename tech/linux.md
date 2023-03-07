@@ -46,6 +46,7 @@ So what's GNU? - GNU's Not UNIX :P, **GNU's not proprietary software.**
 - [seahorse](https://wiki.gnome.org/Apps/Seahorse)
 - [pacman auto update](https://github.com/cmuench/pacman-auto-update)
 - [Jellyfin on my NAS](https://piped.video/watch?v=4VkY1vTpCJY)
+- [thumbfast](https://github.com/po5/thumbfast)
 
 ## packages/tools
 
