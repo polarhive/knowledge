@@ -80,4 +80,5 @@ FOSS & bloat free-software
 - [Sudoku Solver](https://flathub.org/apps/details/io.gitlab.cyberphantom52.sudoku_solver)
 - [find my device](https://f-droid.org/en/packages/de.nulide.findmydevice/)
 - [touchdroid](https://www.f-droid.org/packages/com.akshayaap.touchdroid/)
+- [Google Earth Pro](https://aur.archlinux.org/packages/google-earth-pro) - there's an inbuilt flight simulator; beware [non-free assets]
 
