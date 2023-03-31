@@ -18,4 +18,6 @@ Beautiful fonts & typefaces
 - [barlow](https://tribby.com/fonts/barlow/)
 - [monocraft](https://github.com/IdreesInc/Monocraft)
 - [Cabin](https://commons.wikimedia.org/wiki/Category:Cabin_(typeface)#/media/File:Cabin-font-plain.png)
+- [Apple emoji](https://github.com/samuelngs/apple-emoji-linux)
+- [Magisk-iOS emoji](https://github.com/Keinta15/Magisk-iOS-Emoji)
 

@@ -15,7 +15,6 @@ A pleasant, user-focused UX
 - [Librem 5 Photo Processing Tutorial](https://puri.sm/posts/librem-5-photo-processing-tutorial/)
 - [MacPaint clone](https://paint.withdiagram.com/)
 - [penumbra](https://github.com/nealmckee/penumbra)
-- [Apple emoji](https://github.com/samuelngs/apple-emoji-linux)
 - [PixaPencil](https://www.f-droid.org/en/packages/com.therealbluepandabear.pixapencil/)
 - [tailwindcolors](https://tailwindcss.com/docs/customizing-colors)
 - [opencolor](https://yeun.github.io/open-color/)
