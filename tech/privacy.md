@@ -41,4 +41,5 @@ Privacy is a basic human right.
 - [sign git commits using ssh-key](https://calebhearth.com/sign-git-with-ssh)
 - [Will Quantum Computers break encryption](https://piped.video/watchv?=6H_9l9N3IXU)
 - [openandroidinstaller](https://openandroidinstaller.org)
+- [cinny](https://cinny.in) - discord like [matrix] client
 
