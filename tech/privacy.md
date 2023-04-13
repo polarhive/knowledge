@@ -42,4 +42,5 @@ Privacy is a basic human right.
 - [Will Quantum Computers break encryption](https://piped.video/watchv?=6H_9l9N3IXU)
 - [openandroidinstaller](https://openandroidinstaller.org)
 - [cinny](https://cinny.in) - discord like [matrix] client
+- [Mullvad Browser](https://flathub.org/apps/net.mullvad.MullvadBrowser)
 
