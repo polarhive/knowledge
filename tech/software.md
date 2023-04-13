@@ -82,4 +82,5 @@ FOSS & bloat free-software
 - [touchdroid](https://www.f-droid.org/packages/com.akshayaap.touchdroid/)
 - [Google Earth Pro](https://aur.archlinux.org/packages/google-earth-pro) - there's an inbuilt flight simulator; beware [non-free assets]
 - [dnscrypt-proxy for android](https://github.com/quindecim/dnscrypt-proxy-android/) a magisk-module that brings dnscrypt-proxy to android
+- [Sayboard](https://github.com/ElishaAz/Sayboard)
 
