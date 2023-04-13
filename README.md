@@ -12,9 +12,10 @@ A digital-garden: where I share interesting things I have learnt so far.
 - [~/design](design)
 - [~/minimalism](lifestyle/minimalism.md)
 - [~/science](science)
+- [~/android](tech/android.md)
 - [~/software](tech/software.md)
 - [~/websites](tech/websites.md)
-- [~/fonts](design/fonts)
+- [~/fonts](design/fonts.md)
 - [~/books](books)
 
 Feel free to [contribute](mailto:polarhive@riseup.net?subject=garden-entry) // send feedback via [this](https://polarhive.ml/contact/) form
