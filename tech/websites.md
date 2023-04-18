@@ -35,4 +35,5 @@ There's no need for drag and drop website builders, it blinds you from being cre
 - [staticrypt](https://github.com/robinmoisson/staticrypt)
 - [forwardemail](https://forwardemail.net/en) FOSS email forwarding service for custom-domains
 - [remark42](https://remark42.com/) - a privacy focused commenting system
+- [instant.io](https://instant.io) - share files P2P via webtorrent
 
