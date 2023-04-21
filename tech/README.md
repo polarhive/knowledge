@@ -16,4 +16,5 @@ Technology, software & the digital world
 - [hacker-laws](https://github.com/dwmkerr/hacker-laws)
 - [dvorak](https://en.wikipedia.org/wiki/Dvorak_keyboard_layout) - English keyboard layout optimized for typing comfort
 - [JIT compilers](https://piped.kavin.rocks/watch?v=d7KHAVaX_Rs)
+- [digital-logic simulator](https://github.com/SebLague/Digital-Logic-Sim)
 
