@@ -19,4 +19,5 @@ Productivity
 - [Productivity Text File](https://jeffhuang.com/productivity_text_file/)
 - [Neurohacking: rewiring your brain | Don Vaughn | TEDxUCLA](https://piped.kavin.rocks/watch?v=xzbHtIrb14s)
 - [arceo](https://polarhive.ml/arceo) - a blocklist against social media, news, entertainment & consumerism
+- [productivity system for organizing life](https://piped.video/0_44XEVOwek)
 
