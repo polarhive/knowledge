@@ -48,6 +48,7 @@ So what's GNU? - GNU's Not UNIX :P, **GNU's not proprietary software.**
 - [Jellyfin on my NAS](https://piped.video/watch?v=4VkY1vTpCJY)
 - [thumbfast](https://github.com/po5/thumbfast)
 - [swayfx](https://github.com/WillPower3309/swayfx) - sway: but with rounded corners and shadows
+- [Kids need to experience software freedom, not just the idea of it](https://media.libreplanet.org/u/libreplanet/m/kids-need-to-experience-software-freedom-not-just-the-idea-of-it/)
 
 ## packages/tools
 
