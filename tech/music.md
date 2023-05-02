@@ -22,7 +22,8 @@ Music production / listening to music
 - [mucke](https://github.com/moritz-weber/mucke)
 - [pano scrobbler](https://github.com/kawaiiDango/pScrobbler)
 - [ytdml](https://github.com/deepjyoti30/ytmdl)
-- [lastfm-widget](https://github.com/JeffreyCA/lastfm-recently-played-readme)
+- [lastfm-widget (animated svg)](https://github.com/JeffreyCA/lastfm-recently-played-readme)
+- [lastfm-widget (text/js based)](https://music.blackpiratex.com/)
 - [monophony](https://flathub.org/apps/details/io.gitlab.zehkira.Monophony)
 - [musescore](https://musescore.org)
 
