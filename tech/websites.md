@@ -39,4 +39,5 @@ There's no need for drag and drop website builders, it blinds you from being cre
 - [gallerydeluxe](https://github.com/bep/gallerydeluxe) - hugo theme for showcasing photos
 - [imgs.sh](https://imgs.sh/)
 - [Comments on your static website using Netlify](https://hitarththummar.xyz/blog/serverless-comments)
+- [gallery-dl](https://github.com/mikf/gallery-dl)
 
