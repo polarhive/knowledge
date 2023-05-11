@@ -12,4 +12,5 @@ My [phone-setup](https://polarhive.ml/blog/digital-minimalism-on-my-phone-foss)
 - [How to Root your Phone](https://www.xda-developers.com/root/)
 - [How to Install TWRP on your Phone](https://www.xda-developers.com/how-to-install-twrp/)
 - [TWRP](https://twrp.me/)
+- [IR Remote](https://www.f-droid.org/packages/us.spotco.ir_remote/)
 
