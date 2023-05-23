@@ -21,4 +21,5 @@ Beautiful fonts & typefaces
 - [Apple emoji](https://github.com/samuelngs/apple-emoji-linux)
 - [Magisk-iOS emoji](https://github.com/Keinta15/Magisk-iOS-Emoji)
 - [Intel One Mono](https://github.com/intel/intel-one-mono)
+- [Iosevka](https://typeof.net/Iosevka/)
 
