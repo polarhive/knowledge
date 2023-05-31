@@ -22,4 +22,5 @@ A pleasant, user-focused UX
 - [coolors](https://coolors.co)
 - [prettymaps](https://github.com/marceloprates/prettymaps)
 - [binary posters](https://github.com/corkami/pics/blob/master/binary/README.md#images)
+- [qr-designer](https://github.com/kochrt/qr-designer)
 
