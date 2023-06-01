@@ -22,4 +22,5 @@
 - [How neural networks learn (physical analogy)](https://piped.video/watch?v=r1U6fenGTrU)
 - [Central Limit Theorem](https://piped.video/watch?v=zeJD6dqJ5lo)
 - [realnotcomplex](https://realnotcomplex.com)
+- [Quantum Programming](https://piped.video/watch?v=2Eswqed8agg)
 
