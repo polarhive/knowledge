@@ -12,7 +12,7 @@
 - [Newton's Method](https://en.wikipedia.org/wiki/Newton%27s_method)
 - [Basic College Math](https://piped.kavin.rocks/playlist?list=PL9Wxhr5qVFN2Z_0yYMlF2r_wZmW3PUYAk)
 - [SHA256](https://piped.kavin.rocks/watch?v=8COArd_EREw)
-- [How Many Decimals of Pi Do We Really Need?](https://www.jpl.nasa.gov/edu/news/2016/3/16/how-many-decimals-of-%20pi-do-we-really-need/)
+- [How Many Decimals of Pi Do We Really Need?](https://www.jpl.nasa.gov/edu/news/2016/3/16/how-many-decimals-of-pi-do-we-really-need)
 - [The Nescafé Equation (43 coffee beans)](https://piped.kavin.rocks/watch?v=3V84Bi-mzQM)
 - [Plots](https://github.com/alexhuntley/Plots)
 - [This Is the Calculus They Won't Teach You](https://piped.kavin.rocks/watch?v=5M2RWtD4EzI)
