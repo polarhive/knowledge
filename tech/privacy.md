@@ -45,4 +45,5 @@ Privacy is a basic human right.
 - [Mullvad Browser](https://flathub.org/apps/net.mullvad.MullvadBrowser)
 - [Opting out of LLM indexing](https://seirdy.one/notes/2023/04/21/opting-out-of-llm-indexing/)
 - [DecSync](https://github.com/39aldo39/DecSync)
+- [Reddit History Sanitizer](https://github.com/ryanford/Reddit-History-Sanitizer)
 
