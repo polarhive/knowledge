@@ -23,4 +23,5 @@
 - [Central Limit Theorem](https://piped.video/watch?v=zeJD6dqJ5lo)
 - [realnotcomplex](https://realnotcomplex.com)
 - [Quantum Programming](https://piped.video/watch?v=2Eswqed8agg)
+- [Trick for Solving a Cubic Equation](https://piped.video/watch?v=6-HeRF08B3w)
 
