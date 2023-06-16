@@ -24,4 +24,5 @@
 - [realnotcomplex](https://realnotcomplex.com)
 - [Quantum Programming](https://piped.video/watch?v=2Eswqed8agg)
 - [Trick for Solving a Cubic Equation](https://piped.video/watch?v=6-HeRF08B3w)
+- [Pigeonhole Principle](https://piped.video/watch?v=B2A2pGrDG8I)
 
