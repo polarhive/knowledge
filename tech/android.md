@@ -14,4 +14,4 @@ My [phone-setup](https://polarhive.ml/blog/digital-minimalism-on-my-phone-foss)
 - [TWRP](https://twrp.me/)
 - [IR Remote](https://www.f-droid.org/packages/us.spotco.ir_remote/)
 - [Plain App](https://www.f-droid.org/packages/com.ismartcoding.plain/)
-
+- [F-droid web repo](https://fdroid-webdash.h4x.at/app/#/packages) (experimental)
