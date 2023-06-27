@@ -26,4 +26,5 @@ Music production / listening to music
 - [lastfm-widget (text/js based)](https://music.blackpiratex.com/)
 - [monophony](https://flathub.org/apps/details/io.gitlab.zehkira.Monophony)
 - [musescore](https://musescore.org)
+- [Ondioline](https://piped.video/watch?v=EyU8LwzwA5I) the world's oldest synthesizer
 
