@@ -18,4 +18,5 @@ Technology, software & the digital world
 - [JIT compilers](https://piped.kavin.rocks/watch?v=d7KHAVaX_Rs)
 - [digital-logic simulator](https://github.com/SebLague/Digital-Logic-Sim)
 - [git-patches](https://bt.ht/git-patches) - for GUI email apps
+- [The History of the ThinkPad 701c](https://piped.video/watch?v=u8U40b1hWIE)
 
