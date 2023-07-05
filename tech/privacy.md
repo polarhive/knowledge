@@ -47,4 +47,4 @@ Privacy is a basic human right.
 - [DecSync](https://github.com/39aldo39/DecSync)
 - [Reddit History Sanitizer](https://github.com/ryanford/Reddit-History-Sanitizer)
 - [Power LED attack](https://piped.video/vXe8pe18MNk)
-
+- [Acropalypse](https://piped.video/watch?v=95ovjnMhUq0)
