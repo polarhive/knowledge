@@ -13,9 +13,9 @@ Music production / listening to music
 - [Farplay](https://farplay.io/)
 - [Jamulus](https://jamulus.io/)
 - [hound.fm](https://hound.fm)
-- [The most mind-blowing concept in music (Harmonic Series)](https://piped.kavin.rocks/watch?v=Wx_kugSemfY)
+- [The most mind-blowing concept in music (Harmonic Series)](https://piped.video/watch?v=Wx_kugSemfY)
 - [web-scrobbler](https://web-scrobbler.com/)
-- [Every sound is SINE](https://piped.kavin.rocks/watch?v=UrBZsUBibtk)
+- [Every sound is SINE](https://piped.video/watch?v=UrBZsUBibtk)
 - [PodClassic](https://github.com/0x1317bf7/PodClassic/)
 - [spotube](https://www.f-droid.org/en/packages/oss.krtirtho.spotube/)
 - [lastfm <--> RSS bridge](https://github.com/xiffy/lfm)
@@ -27,4 +27,5 @@ Music production / listening to music
 - [monophony](https://flathub.org/apps/details/io.gitlab.zehkira.Monophony)
 - [musescore](https://musescore.org)
 - [Ondioline](https://piped.video/watch?v=EyU8LwzwA5I) the world's oldest synthesizer
+- [How do vinyl records hold stereo sound?](https://piped.video/3DdUvoc7tJ4)
 
