@@ -84,4 +84,5 @@ FOSS & bloat free-software
 - [dnscrypt-proxy for android](https://github.com/quindecim/dnscrypt-proxy-android/) a magisk-module that brings dnscrypt-proxy to android
 - [Sayboard](https://github.com/ElishaAz/Sayboard)
 - [markdown-preview](https://github.com/iamcco/markdown-preview.nvim) nvim plugin
+- [noodle](https://noodle.run)
 
