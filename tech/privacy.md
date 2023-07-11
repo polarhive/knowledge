@@ -48,3 +48,5 @@ Privacy is a basic human right.
 - [Reddit History Sanitizer](https://github.com/ryanford/Reddit-History-Sanitizer)
 - [Power LED attack](https://piped.video/vXe8pe18MNk)
 - [Acropalypse](https://piped.video/watch?v=95ovjnMhUq0)
+- [OSINT Tools](https://inteltechniques.com/tools/)
+
