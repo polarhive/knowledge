@@ -85,4 +85,5 @@ FOSS & bloat free-software
 - [Sayboard](https://github.com/ElishaAz/Sayboard)
 - [markdown-preview](https://github.com/iamcco/markdown-preview.nvim) nvim plugin
 - [noodle](https://noodle.run)
+- [Spodcast](https://github.com/Yetangitu/Spodcast)
 
