@@ -28,4 +28,5 @@ Music production / listening to music
 - [musescore](https://musescore.org)
 - [Ondioline](https://piped.video/watch?v=EyU8LwzwA5I) the world's oldest synthesizer
 - [How do vinyl records hold stereo sound?](https://piped.video/3DdUvoc7tJ4)
+- [InnerTune](https://github.com/z-huang/InnerTune)
 
