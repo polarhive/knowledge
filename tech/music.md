@@ -29,4 +29,5 @@ Music production / listening to music
 - [Ondioline](https://piped.video/watch?v=EyU8LwzwA5I) the world's oldest synthesizer
 - [How do vinyl records hold stereo sound?](https://piped.video/3DdUvoc7tJ4)
 - [InnerTune](https://github.com/z-huang/InnerTune)
+- [jukebox](https://polarhive.net/jukebox) Play LastFM recommendations on linux: using mpd, yt-dlp and bash
 
