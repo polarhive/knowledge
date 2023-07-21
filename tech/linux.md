@@ -59,6 +59,7 @@ So what's GNU? - GNU's Not UNIX :P, **GNU's not proprietary software.**
 - [Installing Linux on the Nintendo Wii!](https://piped.video/watch?v=mrdR43-sqKs)
 - [tmate](https://tmate.io/)
 - [grub in the style of minecraft](https://github.com/Lxtharia/minegrub-theme)
+- [nms](https://github.com/bartobri/no-more-secrets)
 
 ## packages/tools
 
