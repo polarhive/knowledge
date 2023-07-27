@@ -30,4 +30,5 @@ Music production / listening to music
 - [How do vinyl records hold stereo sound?](https://piped.video/3DdUvoc7tJ4)
 - [InnerTune](https://github.com/z-huang/InnerTune)
 - [jukebox](https://polarhive.net/jukebox) Play LastFM recommendations on linux: using mpd, yt-dlp and bash
+- [able](https://uditkarode.github.io/able/)
 
