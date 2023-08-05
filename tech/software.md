@@ -86,4 +86,5 @@ FOSS & bloat free-software
 - [markdown-preview](https://github.com/iamcco/markdown-preview.nvim) nvim plugin
 - [noodle](https://noodle.run)
 - [Spodcast](https://github.com/Yetangitu/Spodcast)
+- [snake](https://github.com/donno2048/snake)
 
