@@ -1,6 +1,6 @@
 # android
 
-My [phone-setup](https://polarhive.ml/blog/digital-minimalism-on-my-phone-foss)
+My [phone-setup](https://polarhive.net/blog/digital-minimalism-on-my-phone-foss)
 
 ## links
 
@@ -15,3 +15,5 @@ My [phone-setup](https://polarhive.ml/blog/digital-minimalism-on-my-phone-foss)
 - [IR Remote](https://www.f-droid.org/packages/us.spotco.ir_remote/)
 - [Plain App](https://www.f-droid.org/packages/com.ismartcoding.plain/)
 - [F-droid web repo](https://fdroid-webdash.h4x.at/app/#/packages) (experimental)
+- [IR remote](https://www.f-droid.org/packages/us.spotco.ir_remote/)
+
