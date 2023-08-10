@@ -88,4 +88,5 @@ FOSS & bloat free-software
 - [Spodcast](https://github.com/Yetangitu/Spodcast)
 - [snake](https://github.com/donno2048/snake)
 - [pasta](https://polarhive.net/pasta): a pastebin written in go
+- [papermark](https://github.com/mfts/papermark) -- FOSS DocSend clone
 
