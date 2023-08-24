@@ -16,4 +16,5 @@ My [phone-setup](https://polarhive.net/blog/digital-minimalism-on-my-phone-foss)
 - [Plain App](https://www.f-droid.org/packages/com.ismartcoding.plain/)
 - [F-droid web repo](https://fdroid-webdash.h4x.at/app/#/packages) (experimental)
 - [IR remote](https://www.f-droid.org/packages/us.spotco.ir_remote/)
+- [Compiling Android Apps from the Shell](https://piped.video/watch?v=8nFgCRnYMj8)
 
