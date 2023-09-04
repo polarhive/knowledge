@@ -19,4 +19,5 @@ Technology, software & the digital world
 - [digital-logic simulator](https://github.com/SebLague/Digital-Logic-Sim)
 - [git-patches](https://bt.ht/git-patches) - for GUI email apps
 - [The History of the ThinkPad 701c](https://piped.video/watch?v=u8U40b1hWIE)
+- [Counter Machines](https://piped.video/watch?v=PXN7jTNGQIw) Turing Machine alternative
 
