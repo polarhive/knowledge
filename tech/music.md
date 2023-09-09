@@ -31,4 +31,5 @@ Music production / listening to music
 - [InnerTune](https://github.com/z-huang/InnerTune)
 - [jukebox](https://polarhive.net/jukebox) Play LastFM recommendations on linux: using mpd, yt-dlp and bash
 - [able](https://uditkarode.github.io/able/)
+- [touchpianist](https://touchpianist.com/)
 
