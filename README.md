@@ -1,6 +1,6 @@
 # Everything I know 🌱
 
-## Hi. I'm [Nathan](https://polarhive.net/) --- this is my knowledge wiki
+## Hi. I'm [Nathan](https://polarhive.net/) — this is my knowledge wiki
 
 A digital-garden where I share interesting things:
 
@@ -14,15 +14,15 @@ A digital-garden where I share interesting things:
 
 ## featured-entries:
 
-- [~/privacy](tech/privacy.md)
-- [~/science](science)
 - [~/android](tech/android.md)
-- [~/software](tech/software.md)
-- [~/minimalism](lifestyle/minimalism.md)
-- [~/websites](tech/websites.md)
+- [~/books](books)
 - [~/design](design)
 - [~/fonts](design/fonts.md)
-- [~/books](books)
+- [~/minimalism](lifestyle/minimalism.md)
+- [~/privacy](tech/privacy.md)
+- [~/science](science)
+- [~/software](tech/software.md)
+- [~/websites](tech/websites.md)
 
 Feel free to [contribute](mailto:mail@polarhive.net?subject=wiki-entry) // send feedback via [this](https://polarhive.net/contact) form
 
