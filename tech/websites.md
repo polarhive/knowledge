@@ -46,4 +46,5 @@ There's no need for drag and drop website builders, it blinds you from being cre
 - [Onramp](https://traffic-simulation.de/onramp.html)
 - [uBlacklist](https://github.com/iorate/uBlacklist)
 - [feeds.sh](https://feeds.sh/) -- email digests for RSS feeds
+- [worldmeters](https://www.worldometers.info/)
 
