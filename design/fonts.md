@@ -22,4 +22,5 @@ Beautiful fonts & typefaces
 - [Magisk-iOS emoji](https://github.com/Keinta15/Magisk-iOS-Emoji)
 - [Intel One Mono](https://github.com/intel/intel-one-mono)
 - [Iosevka](https://typeof.net/Iosevka/)
+- [b612-font](https://b612-font.com/)
 
