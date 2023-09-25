@@ -90,4 +90,5 @@ FOSS & bloat free-software
 - [pasta](https://polarhive.net/pasta): a pastebin written in go
 - [papermark](https://github.com/mfts/papermark) -- FOSS DocSend clone
 - [PikaTorrent](https://flathub.org/apps/com.pikatorrent.PikaTorrent)
+- [lazy.nvim](https://github.com/folke/lazy.nvim)
 
