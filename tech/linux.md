@@ -61,6 +61,7 @@ So what's GNU? - GNU's Not UNIX :P, **GNU's not proprietary software.**
 - [grub in the style of minecraft](https://github.com/Lxtharia/minegrub-theme)
 - [nms](https://github.com/bartobri/no-more-secrets)
 - [where do your git files live](https://jvns.ca/blog/2023/09/14/in-a-git-repository--where-do-your-files-live-/)
+- [self-hosted cloud gaming](https://app.lizardbyte.dev/)
 
 ## packages/tools
 
