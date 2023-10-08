@@ -27,4 +27,5 @@
 - [Pigeonhole Principle](https://piped.video/watch?v=B2A2pGrDG8I)
 - [An Integration Conundrum](https://piped.video/watch?v=-JR9-dgU7tUi)
 - [A very normal ball drop led me to infinity](https://piped.video/watch?v=10rA45pb7dk)
+- [Simulating Fluids](https://piped.video/watch?v=rSKMYc1CQHE)
 
