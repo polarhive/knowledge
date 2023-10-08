@@ -91,4 +91,5 @@ FOSS & bloat free-software
 - [papermark](https://github.com/mfts/papermark) -- FOSS DocSend clone
 - [PikaTorrent](https://flathub.org/apps/com.pikatorrent.PikaTorrent)
 - [lazy.nvim](https://github.com/folke/lazy.nvim)
+- [feeddeck](https://flathub.org/apps/app.feeddeck.feeddeck)
 
