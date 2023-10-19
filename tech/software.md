@@ -92,4 +92,5 @@ FOSS & bloat free-software
 - [PikaTorrent](https://flathub.org/apps/com.pikatorrent.PikaTorrent)
 - [lazy.nvim](https://github.com/folke/lazy.nvim)
 - [feeddeck](https://flathub.org/apps/app.feeddeck.feeddeck)
+- [localsend](https://localsend.org)
 
