@@ -64,6 +64,7 @@ So what's GNU? - GNU's Not UNIX :P, **GNU's not proprietary software.**
 - [self-hosted cloud gaming](https://app.lizardbyte.dev/)
 - [shell-time](https://github.com/mrusme/shell-time)
 - [bupstash](https://bupstash.io/)
+- [pass-otp](https://github.com/tadfisher/pass-otp)
 
 ## packages/tools
 
