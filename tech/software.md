@@ -11,7 +11,7 @@ FOSS & bloat free-software
 - [youtube-dlp](https://github.com/yt-dlp/yt-dlp) - A mod of yt-dl with some extra features
 - [Telegram Desktop](https://desktop.telegram.org/) - Powerful QT Telegram client
 - [LibreWolf](https://gitlab.com/librewolf-community/browser/linux/-/releases) - de-mozilla'd Firefox
-- [Brave](https://polarhive.ml/videos/notes/hardening-brave-browser) - Do not use the defaults. Brave's sole purpose is to get users to sign up for Brave Rewards and BAT.
+- [Brave](https://polarhive.net/videos/notes/hardening-brave-browser) - Do not use the defaults. Brave's sole purpose is to get users to sign up for Brave Rewards and BAT.
 - [KDE PLasma Rounded corners](https://github.com/matinlotfali/KDE-Rounded-Corners)
 - [Lightly Shaders](https://github.com/sr-tream/LightlyShaders) - Rounded corners for Kwin
 - [Droid-ify](https://github.com/Iamlooker/Droid-ify/) - A modern F-Droid client
@@ -93,4 +93,5 @@ FOSS & bloat free-software
 - [lazy.nvim](https://github.com/folke/lazy.nvim)
 - [feeddeck](https://flathub.org/apps/app.feeddeck.feeddeck)
 - [localsend](https://localsend.org)
+- [LaTeX OCR](https://lukas-blecher.github.io/LaTeX-OCR/)
 

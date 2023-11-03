@@ -5,7 +5,7 @@ Laws, sayings & mantras from the weirdest parts of my brain. Some of them - I'm 
 - You can not trust anyone or anything over the internet
 - Privacy is proportional to Security, but is not the same
 - Human knowledge should be free for anyone to build upon & share
-- The only way you own your computer is when you run [libre software](https://polarhive.ml/blog/free-libre-software) on it
+- The only way you own your computer is when you run [libre software](https://polarhive.net/blog/free-libre-software) on it
 - Data once collected, can & will - be abused. Therefore don't give too much information
 - Time is wealthy
 - We are not living in a simulation
@@ -25,10 +25,10 @@ Laws, sayings & mantras from the weirdest parts of my brain. Some of them - I'm 
 - People love honesty
 - Be excellent to each other
 - Help anyone in need but - don't spoonfeed
-- Document & [share everything you know](https://polarhive.ml/wiki)
+- Document & [share everything you know](https://polarhive.net/wiki)
 - Don't watch the news (TV)
 
 ---
-alt link [mirrored to my website](https://polarhive.ml/philosophy)
+alt link [mirrored to my website](https://polarhive.net/philosophy)
 
 ---
