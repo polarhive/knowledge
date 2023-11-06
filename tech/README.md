@@ -20,4 +20,5 @@ Technology, software & the digital world
 - [git-patches](https://bt.ht/git-patches) - for GUI email apps
 - [The History of the ThinkPad 701c](https://piped.video/watch?v=u8U40b1hWIE)
 - [Counter Machines](https://piped.video/watch?v=PXN7jTNGQIw) Turing Machine alternative
+- [The Problem with Time Timezones](https://piped.video/-5wpm-gesOY)
 
