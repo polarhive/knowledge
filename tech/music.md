@@ -32,4 +32,5 @@ Music production / listening to music
 - [jukebox](https://polarhive.net/jukebox) Play LastFM recommendations on linux: using mpd, yt-dlp and bash
 - [able](https://uditkarode.github.io/able/)
 - [touchpianist](https://touchpianist.com/)
+- [opusmodus](https://opusmodus.com/)
 
