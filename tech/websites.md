@@ -50,4 +50,5 @@ There's no need for drag and drop website builders, it blinds you from being cre
 - [reversedns](https://reversedns.space)
 - [internet-artifacts](https://neal.fun/internet-artifacts/)
 - [just-the-docs](https://github.com/just-the-docs/just-the-docs)
+- [webrings](https://foreverliketh.is/)
 
