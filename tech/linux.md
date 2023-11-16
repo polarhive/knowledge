@@ -65,6 +65,7 @@ So what's GNU? - GNU's Not UNIX :P, **GNU's not proprietary software.**
 - [shell-time](https://github.com/mrusme/shell-time)
 - [bupstash](https://bupstash.io/)
 - [pass-otp](https://github.com/tadfisher/pass-otp)
+- [tmux-browser](https://github.com/ofirgall/tmux-browser)
 
 ## packages/tools
 
