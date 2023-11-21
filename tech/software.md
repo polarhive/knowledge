@@ -94,4 +94,5 @@ FOSS & bloat free-software
 - [feeddeck](https://flathub.org/apps/app.feeddeck.feeddeck)
 - [localsend](https://localsend.org)
 - [LaTeX OCR](https://lukas-blecher.github.io/LaTeX-OCR/)
+- [Typst](https://typst.app/)
 
