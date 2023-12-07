@@ -25,4 +25,5 @@ A pleasant, user-focused UX
 - [qr-designer](https://github.com/kochrt/qr-designer)
 - [city roads](https://anvaka.github.io/city-roads/)
 - [nomnoml](https://nomnoml.com/)
+- [svg-tut](https://svg-tutorial.com/)
 
