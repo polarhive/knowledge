@@ -95,4 +95,5 @@ FOSS & bloat free-software
 - [localsend](https://localsend.org)
 - [LaTeX OCR](https://lukas-blecher.github.io/LaTeX-OCR/)
 - [Typst](https://typst.app/)
+- [upscayl](https://upscayl.org)
 
