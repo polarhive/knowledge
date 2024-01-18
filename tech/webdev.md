@@ -5,4 +5,5 @@
 - [wobble-clock](https://somethingorotherwhatever.com/wobble-clock/)
 - [Youtube’s Anti-adblock and uBlock Origin](https://andadinosaur.com/youtube-s-anti-adblock-and-ublock-origin)
 - [An interactive study of common retry methods](https://encore.dev/blog/retries)
+- [Styling my RSS feed](https://abf.li/posts/styling-my-rss-feed/)
 
