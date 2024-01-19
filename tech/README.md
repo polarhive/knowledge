@@ -21,4 +21,5 @@ Technology, software & the digital world
 - [The History of the ThinkPad 701c](https://piped.video/watch?v=u8U40b1hWIE)
 - [Counter Machines](https://piped.video/watch?v=PXN7jTNGQIw) Turing Machine alternative
 - [The Problem with Time Timezones](https://piped.video/-5wpm-gesOY)
+- [Progressbars](https://youtu.be/uHh0qpc1BR4)
 
