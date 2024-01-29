@@ -7,4 +7,5 @@
 - [How does a USB keyboard work](https://piped.video/wdgULBpRoXk)
 - [Conducting Electricity in one direction](https://piped.video/watch?v=0HZ35CyHVxQ)
 - [electronics book](https://ultimateelectronicsbook.com)
+- [16-Bit CPU in Excel](https://www.youtube.com/watch?v=5rg7xvTJ8SU)
 
