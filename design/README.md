@@ -26,4 +26,5 @@ A pleasant, user-focused UX
 - [city roads](https://anvaka.github.io/city-roads/)
 - [nomnoml](https://nomnoml.com/)
 - [svg-tut](https://svg-tutorial.com/)
+- [vector-networks](https://alexharri.com/blog/vector-networks)
 
