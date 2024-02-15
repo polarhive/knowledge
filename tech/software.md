@@ -96,4 +96,5 @@ FOSS & bloat free-software
 - [LaTeX OCR](https://lukas-blecher.github.io/LaTeX-OCR/)
 - [Typst](https://typst.app/)
 - [upscayl](https://upscayl.org)
+- [streetpass](https://streetpass.social/)
 
