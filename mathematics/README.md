@@ -29,4 +29,5 @@
 - [A very normal ball drop led me to infinity](https://piped.video/watch?v=10rA45pb7dk)
 - [Simulating Fluids](https://piped.video/watch?v=rSKMYc1CQHE)
 - [Cake Cutting Problem](https://piped.video/watch?v=fvM8ow6zNw4)
+- [Floats Are Weird](https://a.exozy.me/posts/floats-weird/)
 
