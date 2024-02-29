@@ -7,4 +7,5 @@
 - [An interactive study of common retry methods](https://encore.dev/blog/retries)
 - [Styling my RSS feed](https://abf.li/posts/styling-my-rss-feed/)
 - [Coding_a_Web_Server_in_25_Lines](https://youtu.be/7GBlCinu9yg)
+- [Make your Table Headings Sticky](https://btxx.org/posts/Please_Make_Your_Table_Headings_Sticky/)
 
