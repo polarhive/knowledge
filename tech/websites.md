@@ -51,4 +51,5 @@ There's no need for drag and drop website builders, it blinds you from being cre
 - [internet-artifacts](https://neal.fun/internet-artifacts/)
 - [just-the-docs](https://github.com/just-the-docs/just-the-docs)
 - [webrings](https://foreverliketh.is/)
+- [Tech Independence](https://sive.rs/ti)
 
