@@ -52,4 +52,5 @@ There's no need for drag and drop website builders, it blinds you from being cre
 - [just-the-docs](https://github.com/just-the-docs/just-the-docs)
 - [webrings](https://foreverliketh.is/)
 - [Tech Independence](https://sive.rs/ti)
+- [css-for-printing](https://voussoir.net/writing/css_for_printing)
 
