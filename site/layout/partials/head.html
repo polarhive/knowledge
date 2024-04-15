@@ -10,18 +10,17 @@
 
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{$PageData.Frontmatter.Title}}</title>
-  <link rel="preload stylesheet" href="{{.DeepDataMerge.LayoutConfig.ThemeURL}}" as="style" />
+  <link rel="preload stylesheet" href="{{.DeepDataMerge.LayoutConfig.ThemeURL}}" as="style">
 
   <!-- External Stylesheets and Plugins -->
-  <script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.9.0/build/highlight.min.js"></script>
+  <!-- <script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.9.0/build/highlight.min.js"></script> -->
   <!-- <link rel="stylesheet"
     href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.7.0/build/styles/tomorrow-night.css"> -->
   <!-- some issue with it -->
-  <script src="https://unpkg.com/highlightjs-copy/dist/highlightjs-copy.min.js"></script>
-  <link rel="stylesheet" href="https://unpkg.com/highlightjs-copy/dist/highlightjs-copy.min.css" />
-
+  <!-- <script src="https://unpkg.com/highlightjs-copy/dist/highlightjs-copy.min.js"></script> -->
+  <!-- <link rel="stylesheet" href="https://unpkg.com/highlightjs-copy/dist/highlightjs-copy.min.css" /> -->
 
   <link rel="alternate" type="application/atom+xml" title="feed" href="/feed.xml" />
 
@@ -35,25 +34,24 @@
     };
   </script>
   {{ end }}
-
+  
+  <!--
   {{range $PageData.Frontmatter.JSFiles}}
   <script src="/script/{{.}}" defer></script>
   {{end}} {{range .DeepDataMerge.LayoutConfig.SiteScripts}}
   <script src="/script/{{.}}" defer></script>
   {{end}}
+  -->
 
-
-  <meta property="og:type" content="website" />
-  <meta property="og:title" content="{{ $PageData.Frontmatter.Title }}" />
-  <meta property="og:description" content="{{ $PageData.Frontmatter.Description }}" />
-  <meta property="og:image" content="{{ $PageData.Frontmatter.PreviewImage }}" />
-
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="{{ $PageData.Frontmatter.Title }}">
+  <meta property="og:description" content="{{ $PageData.Frontmatter.Description }}">
+  <meta property="og:image" content="{{ $PageData.Frontmatter.PreviewImage }}">
   <meta name="description" content="{{ $PageData.Frontmatter.Description }}">
-
-  <script defer>
+  <!-- <script defer>
     hljs.highlightAll();
     hljs.addPlugin(new CopyButtonPlugin());
-  </script>
+  </script> -->
 </head>
 {{end}}
 
