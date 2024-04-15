@@ -1,0 +1,5 @@
+baseURL: https://polarhive.net/wiki
+siteTitle: "nathan's garden"
+siteScripts:
+author: ~polarhive/wiki
+themeURL: "/static/style.css"
