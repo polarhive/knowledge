@@ -2,10 +2,6 @@
 title: android
 type: note
 ---
----
-title: android
-type: note
----
 
 # android
 

@@ -2,7 +2,6 @@
 title: swatches
 type: note
 ---
-# swatches
 
 ![](https://readme-swatches.vercel.app/007894?style=circle)
 ![](https://readme-swatches.vercel.app/00e59f?style=circle)
@@ -25,4 +24,3 @@ type: note
 ![](https://readme-swatches.vercel.app/e9eff7?style=circle)
 ![](https://readme-swatches.vercel.app/ff3b30?style=circle)
 ![](https://readme-swatches.vercel.app/ff8a00?style=circle)
-

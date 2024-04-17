@@ -1,4 +1,7 @@
-# latin
+---
+title: latin
+type: note
+---
 
 Learn Latin - to know about the words we use (etymology)
 and also helps me understand biology/chemistry better

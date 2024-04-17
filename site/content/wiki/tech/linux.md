@@ -2,11 +2,9 @@
 title: linux
 type: note
 ---
----
-title: linux
-description: GNU in the GNU/Linux name doesn't necessarily mean GNU software
-type: note
----
+
+GNU in the GNU/Linux name doesn't necessarily mean GNU software
+
 
 GNU + Linux + X11/Wayland + many other components make up a good, [libre
 OS](https://polarhive.net/blog/free-libre-software/) that puts the user in
@@ -88,4 +86,3 @@ So what's GNU? - GNU's Not UNIX :P, **GNU's not proprietary software.**
 - [``wl-clipboard``](https://github.com/bugaevc/wl-clipboard)
 - [``miniserve``](https://github.com/svenstaro/miniserve)
 - [`lsd`](https://github.com/lsd-rs/lsd)
-

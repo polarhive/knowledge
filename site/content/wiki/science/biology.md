@@ -1,4 +1,7 @@
-# biology
+---
+title: biology
+type: note 
+---
 
 ## links
 
@@ -9,4 +12,3 @@
 - [Colourful in Theory](https://piped.kavin.rocks/watch?v=qKPY2opisRk)
 - [ebird](https://ebird.org/home)
 - [Scent trailing dogs are indistinguishable from magic](https://piped.video/watch?v=md75n8cyenA)
-

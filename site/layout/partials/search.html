@@ -1,18 +1,15 @@
 {{define "search"}}
 <form class="siteSearch" id="searchSite">
-  <input type="text" placeholder="Search Post or Page" id="searchSiteInput" name="searchSite" required autocomplete="off" />
+  <input type="text" placeholder="Search note" id="searchSiteInput" name="searchSite" required autocomplete="off">
 </form>
 <div id="site_search_result"></div>
 <script>
   var resultDiv = document.getElementById("site_search_result");
-  document
-    .getElementById("searchSite")
-    .addEventListener("keyup", function (e) {
+  document.getElementById("searchSite").addEventListener("keyup", function (e) {
       e.preventDefault();
-      const searchValue =
-        document.getElementById("searchSiteInput").value;
+    const searchValue = document.getElementById("searchSiteInput").value.toLowerCase();
 
-      const url = "/static/index.json";
+      const url = "/static/noteindex.json";
 
       fetch(url)
         .then((response) => {
@@ -23,32 +20,33 @@
         })
         .then((data) => {
           resultDiv.innerHTML = "";
-          found = 0;
-          if (searchValue != "") {
-            for (key in data) {
-              found += 1;
-              title =
-                data[key]["Frontmatter"]["Title"].toLowerCase();
-              if (title.includes(searchValue.toLowerCase())) {
-                var a = document.createElement("a");
-                a.innerHTML = data[key]["Frontmatter"]["Title"];
-                a.href = `/${data[key]["CompleteURL"]}`;
+        let found = 0;
+        if (searchValue !== "") {
+          for (const key in data) {
+            const note = data[key];
+            const title = note.Frontmatter.Title.toLowerCase();
+            const body = note.Body.toLowerCase();
+
+            if (title.includes(searchValue) || body.includes(searchValue)) {
+              const a = document.createElement("a");
+              a.innerHTML = note.Frontmatter.Title;
+              a.href = `/${note.CompleteURL}`;
                 resultDiv.appendChild(a);
-                resultDiv.appendChild(
-                  document.createElement("br"),
-                );
+              resultDiv.appendChild(document.createElement("br"));
+              found++;
               }
             }
           } else {
-            document.getElementById("site_search_result").innerHTML = "";
+          resultDiv.innerHTML = "Please enter a search term";
+        }
+
+        if (found === 0) {
+          resultDiv.innerHTML = "No results found";
           }
         })
         .catch((error) => {
           // Handle errors
-          console.error(
-            "There was a problem with the fetch operation:",
-            error,
-          );
+        console.error("There was a problem with the fetch operation:", error);
         });
     });
 </script>

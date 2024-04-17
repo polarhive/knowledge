@@ -11,4 +11,3 @@ Some books, stories & articles that I've read
 | [Use Your Head](https://en.wikipedia.org/wiki/Special:BookSources?isbn=9780563165521)                                                | Tony Buzan              | November, 2021  | -      |
 | [Permanent Record](https://en.wikipedia.org/wiki/Special:BookSources?isbn=9781529035674)                                             | Edward Snowden          | March, 2020     | -      |
 | [Sherlock Holmes: The Complete Novels and Stories Volume I](https://en.wikipedia.org/wiki/Special:BookSources?isbn=9780307834409)    | Arthur Conan Doyle      | September, 2019 | -      |
-

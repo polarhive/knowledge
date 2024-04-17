@@ -28,21 +28,11 @@
       {{ end }}
       {{$PageData.Body}}
     </section>
-    <hr />
+    <hr>
     <section class="notes">
       {{ $CurratedNotes := index .DeepDataMerge.LinkStore .PageURL}}
       {{ if eq (len $CurratedNotes ) 0 }}
       {{ else }}
-      <h3>Related Posts</h3>
-      {{range index .DeepDataMerge.LinkStore .PageURL }}
-      <a class="notes-card" href="/{{ .CompleteURL }}">
-        <div class="notes-card-div">
-          <h4>{{ .Frontmatter.Title }}</h4>
-          <p>{{ .Frontmatter.Description }}</p>
-          <p>{{ .Frontmatter.Date }}</p>
-        </div>
-      </a>
-      {{end}}
       {{ end }}
     </section>
   </article>

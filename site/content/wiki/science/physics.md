@@ -1,4 +1,7 @@
-# physics
+---
+title: physics
+type: note 
+---
 
 ## links
 

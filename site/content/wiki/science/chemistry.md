@@ -1,6 +1,6 @@
 ---
-title:  chemistry
-type: notes
+title: chemistry
+type: note
 ---
 
 ["You Know The Business...and I Know The Chemistry."](https://piped.kavin.rocks/watch?v=69vvrSE2PeM)
@@ -15,4 +15,3 @@ type: notes
 - [The History of Atomic Chemistry](https://piped.kavin.rocks/watch?v=thnDxFdkzZs) - Crash Course Chemistry
 - [IUPAC Nomenclature](https://iupac.qmul.ac.uk/) - Official site
 - [IUPAC Units & Physical Quantities](https://iupac.org/wp-content/uploads/2019/05/IUPAC-GB3-2012-2ndPrinting-PDFsearchable.pdf)
-

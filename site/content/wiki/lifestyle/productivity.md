@@ -2,9 +2,6 @@
 title: productivity
 type: note
 ---
-# productivity
-
-Productivity
 
 ## links
 

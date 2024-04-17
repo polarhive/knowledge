@@ -1,12 +1,7 @@
 ---
 title: music
-type: note
----
----
-title: music
 description: "Music production / listening to music"
 type: note 
-date: 2024-05-16
 ---
 
 ## links
@@ -41,4 +36,3 @@ date: 2024-05-16
 - [touchpianist](https://touchpianist.com/)
 - [opusmodus](https://opusmodus.com/)
 - [abcnotation](https://abcnotation.com/)
-

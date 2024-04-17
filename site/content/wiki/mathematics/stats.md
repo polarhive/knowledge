@@ -1,4 +1,7 @@
-# statistics
+---
+title: stats
+type: note 
+---
 
 Interesting ways to interpret data.
 

@@ -1,9 +1,5 @@
 ---
 title: software
-type: note
----
----
-title: software
 description: FOSS & bloat free-software
 type: note 
 ---
@@ -104,4 +100,3 @@ type: note
 - [upscayl](https://upscayl.org)
 - [streetpass](https://streetpass.social/)
 - [gource](https://gource.io/) version control visualization tool
-

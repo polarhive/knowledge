@@ -1,6 +1,9 @@
-# mathematics
+---
+title: mathematics
+type: note 
+---
 
-- [statistics](stats.md)
+- [[stats]]
 - [The Map of Mathematics](https://piped.video/watch?v=OmJ-4B-mS-Y)
 - [Imaginary Numbers are Real [PART 1]](https://piped.video/watch?v=T647CGsuOVU)
 - [Imaginary Numbers are Real [PART 2]](https://piped.video/watch?v=2HrSG0fdxLY)

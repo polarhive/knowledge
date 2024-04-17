@@ -28,4 +28,3 @@ Beautiful fonts & typefaces
 - [Intel One Mono](https://github.com/intel/intel-one-mono)
 - [Iosevka](https://typeof.net/Iosevka/)
 - [b612-font](https://b612-font.com/)
-

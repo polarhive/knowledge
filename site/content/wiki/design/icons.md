@@ -15,4 +15,3 @@ Beautiful icons & vector art
 - [phosphor](https://phosphoricons.com/)
 - [iconoir](https://iconoir.com/)
 - [ui-avatars](https://ui-avatars.com/)
-

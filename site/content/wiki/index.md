@@ -31,7 +31,3 @@ head: true
 - [[websites]]
 
 Feel free to [contribute](mailto:mail@polarhive.net?subject=wiki-entry) // send feedback via [this](https://polarhive.net/contact) form
-
----
-[![license: CC BY-SA 4.0](https://polarhive.net/assets/badges/cc-by-sa-4.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
-
