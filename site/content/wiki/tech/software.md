@@ -100,3 +100,5 @@ type: note
 - [upscayl](https://upscayl.org)
 - [streetpass](https://streetpass.social/)
 - [gource](https://gource.io/) version control visualization tool
+- [immich](https://immich.app/)
+
