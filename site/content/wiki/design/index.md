@@ -7,6 +7,7 @@ A pleasant, user-focused UX
 
 - [[fonts]]
 - [[icons]]
+- [[swatches]]
 - [Excalidraw](https://excalidraw.com/)
 - [GIMP 3](https://wiki.gimp.org/wiki/Roadmap#GIMP_3.0)
 - [Emoji to Scale](https://javier.xyz/emoji-to-scale/)
