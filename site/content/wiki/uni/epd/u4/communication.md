@@ -2,10 +2,9 @@
 title: communication systems
 type: note 
 ---
-
 # Communication Systems Overview
 
-``` plain
+```
 input -> input transducer Tx <== channel ==> Rx -> output transducer -> output
 ```
 
@@ -63,34 +62,31 @@ The process of recovering the message from the modulated signal is called demodu
 - Modulation helps to adjust bandwidth.
 
 ---
-
-## Applications
-
+```
+| Application  | Frequency Band |
+| ------------ | -------------- |
+| AM Radio     | 0.54-1.6 MHz   |
+| TV           | 54-8 MHz       |
+| FM Radio     | 8-108 MHz      |
+| Mobile Radio | 806-901 MHz    |
+```
 ---
-| Application       | Frequency Band       |
-|-------------------|----------------------|
-| AM Radio          | 0.54-1.6 MHz         |
-| TV                | 54-8 MHz             |
-| FM Radio          | 8-108 MHz            |
-| Mobile Radio      | 806-901 MHz          |
----
-
 ### The Objectives of a Cellular System Include
 
-- Ensuring high capacity
-- Achieving extensive coverage
+- Ensuring high **capacity**
+- Achieving extensive **coverage**
 - Making the best use of a limited spectrum
+
 However, for achieving a large coverage area, a single transmission necessitates high power and the use of tall towers. This approach limits the service to a small number of users and results in efficient spectrum utilization.
 
 ### Cellular Concept and Frequency Reuse Pattern
 
 - Each cellular base station is allocated a group of radio channels within a small geographic area known as a cell.
-- **Neighbouring Cells**: Neighbouring cells are assigned different channel groups.
+- **Neighbouring Cells** are assigned different channel groups.
 - **Frequency Reuse**: By limiting the coverage area to within the boundary of the cell, the channel groups may be reused to cover different cells.
 - Keep interference levels within tolerable limits.
 - Frequency reuse or frequency planning: seven groups of channels from A to G, footprint of a cell is the actual radio coverage.
-- Each cell uses an Omni-directional antenna.
-
+ - Each cell uses an omni-directional antenna. (360 degrees)
 #### Use of Cellular Concept
 
 - Solves the problem of spectral congestion and user capacity.
@@ -105,12 +101,12 @@ However, for achieving a large coverage area, a single transmission necessitates
 - Simple model for easy analysis → circles leave gaps.
 - Actual cell “footprint” is amorphous (no specific shape) where Tx successfully serves mobile unit.
 - Base station location:
-  - Cell center → omni-directional antenna (360° coverage).
+  - Cell centre → omni-directional antenna (360° coverage).
     - Not necessarily in the exact center (can be up to R/4 from the ideal location).
   - Cell corners → sectored or directional antennas on 3 corners with 120° coverage.
     - Very common.
 - Note that what is defined as a “corner” is somewhat flexible → a sectored antenna covers 120° of a hexagonal cell.
-- So one can define a cell as having three antennas in the center or antennas at 3 corners.
+- So one can define a cell as having three antennas in the centre or antennas at 3 corners.
 
 ## Handoff Strategies
 
@@ -121,30 +117,28 @@ However, for achieving a large coverage area, a single transmission necessitates
 
 ### **Roaming**
 
-- A mobile device may move into a different system controlled by a different Mobile Switching Centre (MSC). This is known as an intersystem handoff.
-- **Issues Involved in Roaming**:
+- A mobile device may move into a different system controlled by a different Mobile Switching Centre (MSC). This is known as an inter-system hand off.
 
-1. **Prioritizing Handoffs**:
+1. **Prioritising Handoffs**:
+   - Issue: Perceived Grade of Service (GOS) – the quality of service as viewed by users.
+   - Quality Consideration: "Quality" in terms of dropped or blocked calls (not voice quality).
+   - Prioritization: Handoffs are assigned higher priority over new call requests.
+   - Impact of Dropped Calls: A dropped call is more aggravating than an occasional blocked call.
 
-   - **Issue**: Perceived Grade of Service (GOS) – the quality of service as viewed by users.
-   - **Quality Consideration**: "Quality" in terms of dropped or blocked calls (not voice quality).
-   - **Prioritization**: Handoffs are assigned higher priority over new call requests.
-   - **Impact of Dropped Calls**: A dropped call is more aggravating than an occasional blocked call.
+2. **Guard Channels**:
 
-2. Guard Channels:
-
-   - Percentage of total available cell channels exclusively set aside for handoff requests
+   - Percentage of total available cell channels exclusively set aside for hand off requests
    - Makes fewer channels available for new call requests
    - A good strategy is dynamic channel allocation (not fixed)
    - adjust number of guard channels as needed by demand
 
-3. Queuing Handoff Requests
+3. **Queuing** Handoff Requests
 
    - Use time delay between handoff threshold and minimum usable signal level to place a blocked handoff request in queue.
    - A handoff request can "keep trying" during that time period, instead of having a single block/no block decision.
-   - Prioritize requests (based on mobile speed) and handoff as needed.
-     - Calls will still be dropped if time period expires.
-
+   - Prioritise requests (based on mobile speed) and handoff as needed.
+	- Calls will still be dropped if time period expires.
+  
 ### Practical Handoff Considerations
 
 Problems occur because of a large range of mobile velocities
@@ -159,17 +153,19 @@ Mobile Switching Centre load is heavy when high speed users are passed between v
 - Multiple antennas & Tx can be co-located at single location if necessary (save on obtaining new tower licenses)
 - Large cell →high speed traffic →fewer handoffs
 - Small cell →low speed traffic
-Example areas: interstate highway passing through urban center, office park, or nearby shopping mall.
 
-### Typical handoff parameters
+Example areas: interstate highway passing through urban centre, office park, or nearby shopping mall.
+
+---
+#### Typical handoff parameters
 
 - Analog cellular (1st generation): threshold margin Δ≈ 6 to 12 dB, total time to complete handoff ≈ 8 to 10 sec
 - Digital cellular (2nd generation): total time to complete handoff ≈ 1 to 2 sec, lower necessary threshold margin Δ≈ 0 to 6 dB, enabled by mobile assisted handoff
 
-### Benefits of small handoff time
+#### Benefits of small handoff time
 
 - Greater flexibility in handling high/low speed users
-- Queuing handoffs & prioritizing
+- **Queuing** handoffs & prioritizing
 - More time to “rescue” calls needing urgent handoff
 - Fewer dropped calls → GOS increased
 - Can make decisions based on a wide range of metrics other than signal strength
@@ -182,7 +178,6 @@ This choice of best signal can keep changing
 - Advantage is unique to CDMA (Code-division Multiple access) systems: as long as there are enough codes available.
 
 ---
-
 ## Co-Channel Interference
 
 During Frequency reuse there are several cells that use the same set of frequencies which leads to co-channel interference.
@@ -191,9 +186,13 @@ During Frequency reuse there are several cells that use the same set of frequenc
 - co-channel interference is independent of the transmitted
 power
 
-## co-channel interference is a function of
+### co-channel interference is a function of:
 
-- R: Radius of the cell
-- D: distance to the centre of the nearest co-channel cell
-- Increasing the ratio Q=D/R, the interference is reduced.
+- **R**: Radius of the cell
+- **D**: distance to the centre of the nearest co-channel cell
+- Increasing the ratio *==Q=D/R==* the interference is reduced.
 - **Q** is called the co-channel reuse ratio
+
+---
+
+next: [[embedded systems]]

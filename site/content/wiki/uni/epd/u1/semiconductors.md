@@ -1,0 +1,5 @@
+---
+title: semiconductors
+type: note 
+---
+

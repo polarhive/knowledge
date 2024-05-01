@@ -2,12 +2,9 @@
 title: logic gates
 type: note 
 ---
+## Logic Gates
 
-# Logic Gates Overview
-
-## todo
-
-### flip-flops
+### [[flip-flops]]
 
 ### latches
 

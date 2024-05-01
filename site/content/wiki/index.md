@@ -10,9 +10,8 @@ head: true
 > hog, conn a ship, design a building, write a sonnet, balance accounts, build
 > a wall, set a bone, comfort the dying, take orders, give orders, cooperate,
 > act alone, solve equations, analyse a new problem, pitch manure, program a
-> computer, cook a tasty meal, fight efficiently, die gallantly. Specialization
-> is for insects. [— Robert Heinlein, Time Enough for
-> Love](https://en.m.wikipedia.org/wiki/Competent_man)*
+> computer, cook a tasty meal, fight efficiently, die gallantly. Specialisation is for insects.
+>  [— Robert Heinlein, Time Enough for  Love](https://en.m.wikipedia.org/wiki/Competent_man)*
 
 ### Hover over these featured-entries
 
