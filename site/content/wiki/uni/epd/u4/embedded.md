@@ -2,8 +2,6 @@
 title: embedded systems
 type: note
 ---
-# Embedded Systems
-
 An Embedded system is an electronic / electromechanical system designed to perform a specific function and is a combination of both Hardware and Software. It is unique and the hardware and firmware are highly specialized to the application domain.
 
 It's a micro-controller or microprocessor-based system which is designed to perform a specific task. For example, a fire alarm is an embedded system; it will sense only smoke.

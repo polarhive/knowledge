@@ -29,15 +29,7 @@
       {{$PageData.Body}}
     </section>
     <hr>
-    <section class="notes">
-      {{ $CurratedNotes := index .DeepDataMerge.LinkStore .PageURL}}
-      {{ if eq (len $CurratedNotes ) 0 }}
-      {{ else }}
-      {{ end }}
-    </section>
   </article>
-  {{template "footer" .}}
-
   {{ template "hover" .}}
 </body>
 

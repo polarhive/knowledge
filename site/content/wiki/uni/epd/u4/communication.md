@@ -2,7 +2,6 @@
 title: communication systems
 type: note 
 ---
-# Communication Systems Overview
 
 ```
 input -> input transducer Tx <== channel ==> Rx -> output transducer -> output

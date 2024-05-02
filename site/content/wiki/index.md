@@ -13,7 +13,7 @@ head: true
 > computer, cook a tasty meal, fight efficiently, die gallantly. Specialisation is for insects.
 >  [— Robert Heinlein, Time Enough for  Love](https://en.m.wikipedia.org/wiki/Competent_man)*
 
-### Hover over these featured-entries
+## featured-entries
 
 - [[tech]]
 - [[science]]
@@ -28,4 +28,3 @@ head: true
 - [[software]]
 - [[websites]]
 
-Feel free to [contribute](mailto:mail@polarhive.net?subject=wiki-entry) // send feedback via [this](https://polarhive.net/contact) form
