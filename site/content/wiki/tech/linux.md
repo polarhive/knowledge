@@ -72,6 +72,7 @@ So what's GNU? - GNU's Not UNIX :P, **GNU's not proprietary software.**
 - [tmux-browser](https://github.com/ofirgall/tmux-browser)
 - [Building Video Games For The Linux Terminal](https://youtu.be/Si0d2QaGyoM)
 - [niri](https://github.com/YaLTeR/niri)
+- [pipewire-screenaudio](https://github.com/IceDBorn/pipewire-screenaudio)
 
 ## packages/tools
 
