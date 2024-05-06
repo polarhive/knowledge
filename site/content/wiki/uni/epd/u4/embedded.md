@@ -355,13 +355,13 @@ Features of ARM7:
 
 ## ARM Processor Fundamentals
 
-![](risc.png)
+![risc](risc.png)
 
 ---
 
 ## Data Flow Model
 
-![](dataflow.png)
+![data flow model](dataflow.png)
 
 - Data enters the processor core through the data bus.
 - Instruction decoder translates instructions before they are executed.
