@@ -88,3 +88,5 @@ So what's GNU? - GNU's Not UNIX :P, **GNU's not proprietary software.**
 - [``wl-clipboard``](https://github.com/bugaevc/wl-clipboard)
 - [``miniserve``](https://github.com/svenstaro/miniserve)
 - [`lsd`](https://github.com/lsd-rs/lsd)
+- [`go-present`](https://pkg.go.dev/golang.org/x/tools/cmd/present)
+
