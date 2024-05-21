@@ -14,7 +14,7 @@ sustainable living practices
 
 ---
 ### Twelve Principles of Green Chemistry
-![](12principles.png)
+![12 principles of greenchem](12principles.png)
 
 1. **Prevent Waste :**
 - Synthesis **only targeted product** with minimum or no by products/waste
