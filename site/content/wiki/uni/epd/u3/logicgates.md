@@ -4,7 +4,7 @@ type: note
 ---
 ## Logic Gates
 
-### [[flip-flops]]
+### [[flip flops]]
 
 ### latches
 
