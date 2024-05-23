@@ -58,4 +58,5 @@ Websites should be lean, beautiful and well presented either use plaintext or si
 - [codapi](https://codapi.org/)
 - [omniclip](https://omniclip.app/) web video-editor
 - [wikipedia racing](https://www.ntnbr.com/57/)
+- [google-search sans AI generated content](https://tedium.co/2024/05/17/google-web-search-make-default/)
 
