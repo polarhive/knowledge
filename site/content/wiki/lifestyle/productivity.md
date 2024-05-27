@@ -23,4 +23,4 @@ type: note
 - [productivity system for organizing life](https://piped.video/0_44XEVOwek)
 - [custom search shortcuts](https://news.ycombinator.com/item?id=36666116)
 - [uBO filters](https://github.com/mig4ng/ublock-origin-filters)
-
+- [dump-phone guide](https://dumbph.com/turn-iphone-into-dumb-phone/)

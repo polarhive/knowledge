@@ -2,7 +2,6 @@
 title: digital electronics
 type: note
 ---
-[[logicgates]]
+[[logic gates]]
 [[flip flops]]
 [[register]]
-
