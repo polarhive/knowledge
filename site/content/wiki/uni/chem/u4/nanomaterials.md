@@ -23,7 +23,7 @@ Dimensions of nanomaterials lie in between bulk material and atoms/molecules upt
 
 ### So how do we see these small things?
 
-- Scanning electron microscope (SEM)Andale Mono
+- Scanning electron microscope (SEM)
 - Transmission electron microscopy (TEM)
 - Scanning tunneling microscope (STM)
 - Atomic force microscope (AFM)
@@ -63,10 +63,10 @@ Examples include:
 ---
 ### Different from bulk properties
 
-Reasons:
-- Large fraction of surface atoms / unit volume: Properties are dictated by surface atoms rather than bulk atoms
-- Eg : Pt sheet  versus Pt powder
-- Large surface energy : Surface atoms are held with less force as  compared to bulk. Surface activity is high. E.g. : Al 
+> Reasons:
+- Large fraction of surface atoms / unit volume: Properties are dictated by **surface** atoms rather than bulk atoms
+- Eg: Pt sheet v/s Pt powder
+- Large **surface** energy : Surface atoms are held with less force as  compared to bulk. Surface activity is high. E.g. : Al 
 
 > A block has a surface area of 6 square meters (1 square meter on a side x 6 sides) and a volume of 1 cubic meter. In this case, the surface area to volume ratio for the ice block is 6/1 or 6.
 
