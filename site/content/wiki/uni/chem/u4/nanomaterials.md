@@ -2,7 +2,6 @@
 title: nanomaterials
 type: note 
 ---
-
 > The prefix 'nano' is derived from the Greek word for dwarf. 
 > 1 nm == 10 H or 5 Si atoms aligned in a line.
 
