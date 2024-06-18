@@ -38,4 +38,5 @@ type: note
 - [abcnotation](https://abcnotation.com/)
 - [string](https://string.spiel.com)
 - [Python Notebooks for Fundamentals of Music Processing](https://www.audiolabs-erlangen.de/resources/MIR/FMP/C0/C0.html)
+- [blackcandy](https://github.com/blackcandy-org/blackcandy)
 
