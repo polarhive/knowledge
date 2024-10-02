@@ -1,4 +1,3 @@
-# Everything I know:
+# Everything I know
 
-https://polarhive.net/wiki
-
+[polarhive.net/wiki](https://polarhive.net/wiki)

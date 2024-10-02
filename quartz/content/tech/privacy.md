@@ -50,3 +50,4 @@ Privacy is a basic human right
 - [Acropalypse](https://piped.video/watch?v=95ovjnMhUq0)
 - [OSINT Tools](https://inteltechniques.com/tools/)
 - [RSS to AP](https://portal.0svc.com/convert/)
+- [SS7](https://youtu.be/wVyu7NB7W6Y)
