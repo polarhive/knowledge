@@ -25,5 +25,5 @@
 - [[science]]
 - [[software]]
 - [[websites]]
-- [[uni/README|uni]]
+- [[uni]]
 

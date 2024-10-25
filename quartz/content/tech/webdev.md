@@ -8,5 +8,5 @@
 - [Styling my RSS feed](https://abf.li/posts/styling-my-rss-feed/)
 - [Coding_a_Web_Server_in_25_Lines](https://youtu.be/7GBlCinu9yg)
 - [Make your Table Headings Sticky](https://btxx.org/posts/Please_Make_Your_Table_Headings_Sticky/)
-- [[uni/src/sem-3/UE23CS241A/WT|UE23CS241A]]
+- [[uni/sem-3/UE23CS241A/WT|UE23CS241A]]
 - [Learn web development](https://developer.mozilla.org/en-US/docs/Learn) - The only way to get started
