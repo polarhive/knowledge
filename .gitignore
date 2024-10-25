@@ -1,0 +1,4 @@
+**/.obsidian/**
+**/public/**
+**/.quartz-cache/**
+**/node_modules/**
