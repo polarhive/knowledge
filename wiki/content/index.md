@@ -25,4 +25,4 @@
 - [[science]]
 - [[software]]
 - [[websites]]
-- [[uni]]
+- [[uni/index|uni]]
