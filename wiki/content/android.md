@@ -22,4 +22,4 @@ My [phone-setup](https://polarhive.net/blog/digital-minimalism-on-my-phone-foss)
 - [Compiling Android Apps from the Shell](https://piped.video/watch?v=8nFgCRnYMj8)
 - [UpgradeAll](https://f-droid.org/packages/net.xzos.upgradeall/): Check updates for Android apps, Magisk modules and more!
 - [degoogle lineage](https://old.reddit.com/r/LineageOS/comments/cl5c90/degoogling_lineageos_instructions_august_2019/)
-
+- [bootloader wall of shame](https://github.com/melontini/bootloader-unlock-wall-of-shame)
