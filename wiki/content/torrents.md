@@ -2,7 +2,6 @@
 title: torrents
 type: note
 ---
-
 Torrents are fast & help decentralize the internet.
 
 ## links

@@ -1,4 +1,3 @@
-
 # philosophy
 
 Laws, sayings & mantras from the weirdest parts of my brain. Some of them - I'm still figuring out.

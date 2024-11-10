@@ -1,4 +1,3 @@
-
 # websites
 
 Websites should be lean, beautiful and well presented either use plaintext or simple HTML 5. There's no need for drag and drop website builders, it blinds you from being creative - the joy of learning simple HTML.
