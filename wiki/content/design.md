@@ -28,3 +28,4 @@ A pleasant, user-focused UX
 - [nomnoml](https://nomnoml.com/)
 - [svg-tut](https://svg-tutorial.com/)
 - [vector-networks](https://alexharri.com/blog/vector-networks)
+- [lucide icons](https://lucide.dev)
