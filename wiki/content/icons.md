@@ -1,8 +1,3 @@
----
-title: icons
-type: note
----
-
 # fonts
 
 Beautiful icons & vector art

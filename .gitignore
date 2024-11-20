@@ -1,6 +1,8 @@
 **/.obsidian/**
 **/.quartz-cache/**
+**/.trash/**
+**/daily/**
 **/node_modules/**
 **/public/**
 wiki/content/uni
-daily
+wiki/content/Clippings

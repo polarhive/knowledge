@@ -1,7 +1,3 @@
----
-title: physics
-type: note 
----
 ## links
 
 - [The Map of Physics](https://piped.kavin.rocks/watch?v=ZihywtixUYo)

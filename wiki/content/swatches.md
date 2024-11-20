@@ -1,7 +1,3 @@
----
-title: swatches
-type: note
----
 # swatches
 
 ![](https://readme-swatches.vercel.app/007894?style=circle)

@@ -1,9 +1,4 @@
----
-title: torrents
-type: note
----
 Torrents are fast & help decentralize the internet.
-
 ## links
 
 - [FOSS Torrents](https://fosstorrents.com/) - A catalog of FOSS software

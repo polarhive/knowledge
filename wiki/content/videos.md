@@ -1,9 +1,4 @@
----
-title: videos
-type: note
----
 Make short, entertaining [videos](https://polarhive.net/videos/)
-
 ## links
 
 - [my videos](https://polarhive.net/videos/notes/)
