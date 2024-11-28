@@ -29,3 +29,4 @@ A pleasant, user-focused UX
 - [svg-tut](https://svg-tutorial.com/)
 - [vector-networks](https://alexharri.com/blog/vector-networks)
 - [lucide icons](https://lucide.dev)
+- [anti-aliasing](https://blog.frost.kiwi/analytical-anti-aliasing/)

@@ -3,24 +3,30 @@
 > The GNU in the GNU/Linux name doesn't necessarily mean GNU software
 
 GNU + Linux + X11/Wayland + many other components make up a good, [libre
+
 OS](https://polarhive.net/blog/free-libre-software/) that puts the user in
+
 [control](https://polarhive.net/blog/how-i-do-my-computing/). Linux is a cool
+
 name but doesn't signify 'freedom' or the original goal behind the hacker
+
 ecosystem.
 
-### What each word implies
+## What each word implies
 
 - GNU = Software licensed under a (libre license)
 - Linux = The core of the OS (kernel)
 - UNIX = Proprietary (non-freedom giving) software
 
 UNIX was a popular proprietary OS back in the day and today it implies
+
 proprietary software incarnate in the form of Windows/MacOS or standalone cross
+
 device apps/addons.
 
 So what's GNU? - GNU's Not UNIX :P, **GNU's not proprietary software.**
 
-## links
+# links
 
 - [AT&T Archives: The UNIX Operating System](https://piped.video/watch?v=tc4ROCJYbm0)
 - [Fedora GNU/Linux](https://fedoraproject.org/) - Very well polished, with a great UX for new users.
@@ -71,7 +77,7 @@ So what's GNU? - GNU's Not UNIX :P, **GNU's not proprietary software.**
 - [pipewire-screenaudio](https://github.com/IceDBorn/pipewire-screenaudio)
 - [FOSS 101](https://polarhive.net/talks/gdsc-foss-101/)
 
-## packages/tools
+# packages/tools
 
 - [``brightnessctl``](https://repology.org/project/brightnessctl/information)
 - [``playerctl``](https://repology.org/project/playerctl/information)

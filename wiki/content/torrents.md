@@ -1,5 +1,6 @@
 Torrents are fast & help decentralize the internet.
-## links
+
+# links
 
 - [FOSS Torrents](https://fosstorrents.com/) - A catalog of FOSS software
 - [LibreTorrent](https://f-droid.org/packages/org.proninyaroslav.libretorrent/) - Android client

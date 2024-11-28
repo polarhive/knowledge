@@ -10,7 +10,7 @@ Laws, sayings & mantras from the weirdest parts of my brain. Some of them - I'm 
 - Time is wealthy
 - We are not living in a simulation
 - English is a modern, global language that everyone should be able to interpret
-- Learning atleast one foreign language is a must
+- Learning at least one foreign language is a must
 - [Web0](https://web0.small-web.org/) > Web3
 - Cash > crypto, at local shops
 - Cold showers unless you're sick
