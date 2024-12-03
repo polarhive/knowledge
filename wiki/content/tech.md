@@ -1,4 +1,4 @@
-# tech
+## tech
 
 - [Map of Computer Science](https://piped.kavin.rocks/watch?v=SzJ46YA_RaA)
 - [GNU+Linux](linux)

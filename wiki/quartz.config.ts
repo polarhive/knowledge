@@ -14,7 +14,7 @@ const config: QuartzConfig = {
     analytics: null,
     locale: "en-US",
     baseUrl: "polarhive.net/wiki",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "templates", ".obsidian", "pdfs"],
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",

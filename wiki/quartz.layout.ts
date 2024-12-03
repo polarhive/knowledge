@@ -8,7 +8,7 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      src: "https://github.com/polarhive/knowledge",
+      git: "https://github.com/polarhive/knowledge",
     },
   }),
 }
