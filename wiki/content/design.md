@@ -30,3 +30,5 @@ A pleasant, user-focused UX
 - [vector-networks](https://alexharri.com/blog/vector-networks)
 - [lucide icons](https://lucide.dev)
 - [anti-aliasing](https://blog.frost.kiwi/analytical-anti-aliasing/)
+- [new.css](https://newcss.net/) - The CSS theme I use for [my site](https://polarhive.net)
+- [flexoki](https://stephango.com/flexoki)

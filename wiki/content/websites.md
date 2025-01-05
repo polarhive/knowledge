@@ -9,7 +9,6 @@ Websites should be lean, beautiful and well presented either use plaintext or si
 - [Everyone Should Make Your Own Simple Website](https://polarhive.net/videos/notes/everyone-should-make-your-own-simple-website) - I show you how to setup a free static site in 5 minutes.
 - [simplewebsite](https://codeberg.org/polarhive/simplewebsite/) - here's the template used.
 - [Element CSS](https://elementcss.neocities.org/)
-- [new.css](https://newcss.net/) - The CSS theme I use for [my site](https://polarhive.net)
 - [picocss](https://picocss.com/)
 - [weblite](https://codeberg.org/Weblite/)
 - [Advanced Search](https://support.google.com/websearch/answer/35890) - Do an Advanced Search on Google
