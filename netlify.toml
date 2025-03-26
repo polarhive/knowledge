@@ -1,0 +1,15 @@
+[build]
+  command = "./setup.sh"
+  publish = "knowledge/wiki/public"
+
+[[redirects]]
+  from = "https://polarhive-wiki.netlify.app/*"
+  to = "https://wiki.polarhive.net/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://main--polarhive-wiki.netlify.app/*"
+  to = "https://wiki.polarhive.net/:splat"
+  status = 301
+  force = true

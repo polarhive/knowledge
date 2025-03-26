@@ -13,7 +13,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: null,
     locale: "en-US",
-    baseUrl: "polarhive.net/wiki",
+    baseUrl: "wiki.polarhive.net",
     ignorePatterns: ["private", "templates", ".obsidian", "pdfs"],
     defaultDateType: "created",
     theme: {
