@@ -13,3 +13,4 @@
   to = "https://wiki.polarhive.net/:splat"
   status = 301
   force = true
+
