@@ -97,4 +97,4 @@
 - [streetpass](https://streetpass.social/)
 - [gource](https://gource.io/) version control visualization tool
 - [immich](https://immich.app/)
-
+- [[SE|Software Engineering]]

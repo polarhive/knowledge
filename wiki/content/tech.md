@@ -23,3 +23,6 @@
 - [Progressbars](https://youtu.be/uHh0qpc1BR4)
 - [How CPUs do math](https://www.youtube.com/watch?v=nhXevKMm3JI)
 - [Computer Graphics](https://www.scratchapixel.com/)
+- [[distributed systems]]
+- [[BD|Big Data]]
+
